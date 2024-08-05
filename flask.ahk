@@ -28,3 +28,24 @@ XButton1::
 	send, 5 ;simulates the keypress of the 5 button. If you use another button, change it!
 }
 return
+
+`::
+{
+	;Initialize random delays between 57 and 114 ms (arbitrary values, may be changed)
+	random, delay2, 10, 66
+	random, delay3, 20, 66
+	random, delay4, 20, 66
+	random, delay5, 20, 66
+
+	send, w ;simulates the keypress of the 1 button. If you use another button, change it!
+
+	;sleep, %delay2%
+	send, e ;simulates the keypress of the 2 button. If you use another button, change it!
+
+	sleep, %delay3%
+	send, r ;simulates the keypress of the 3 button. If you use another button, change it!
+
+	sleep, %delay4%
+	send, t ;simulates the keypress of the 4 button. If you use another button, change it!
+}
+return
