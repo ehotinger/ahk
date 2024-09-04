@@ -49,9 +49,21 @@ class CookingBot {
             }
 
             // Block until we enable it again.
-            while(this.isRunning) {
-                await new Promise(resolve => setTimeout(resolve, 1000));
+            var cookMoreBtn = document.querySelector('.abutGradBl.skButDone');
+            while(!cookMoreBtn) {
+                
+                cookMoreBtn = document.querySelector('.abutGradBl.skButDone');
+                await new Promise(resolve => setTimeout(resolve, 500));
             }
+            console.log('Cook more!')
+            cookMoreBtn.click();
+            
+            await new Promise(resolve => setTimeout(resolve, 500));
+            var cookBtn = document.querySelector('.abutGradBl.skBut')
+            cookBtn.click();
+            console.log('Cook!');
+            this.meterBoxProg=null; // Reset the meter box progress.
+            await new Promise(resolve => setTimeout(resolve, 500));
         }
     }
 
