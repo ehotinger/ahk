@@ -58,6 +58,7 @@ class FishingBot {
             if (this.recastButton) {
                 this.recastButton.click();
                 this.recastButton = null;
+                this.meterBoxProg.disconnect();
                 this.meterBoxProg = null;
                 console.log('Clicked Recast Line');
                 break;
