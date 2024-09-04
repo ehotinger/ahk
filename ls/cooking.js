@@ -62,7 +62,8 @@ class CookingBot {
             var cookBtn = document.querySelector('.abutGradBl.skBut')
             cookBtn.click();
             console.log('Cook!');
-            this.meterBoxProg=null; // Reset the meter box progress.
+            this.meterBoxProg.disconnect();
+            this.meterBoxProg = null; // Reset the meter box progress.
             await new Promise(resolve => setTimeout(resolve, 500));
         }
     }
