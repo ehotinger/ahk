@@ -92,14 +92,16 @@ class FishingBot {
                             console.log('Clicked release')
                             this.releaseButton.click();
                         }
-                    }
-                    var hasSnag = document.querySelector('.popupBox.pbSkillup.cur').innerHTML.indexOf('Snag!') > -1;
-                    if (hasSnag) {
-                        this.snagCounterButton.click();
-                        // console.log('SNAG COUNTER!')
                     } else {
-                        this.reelButton.click();
-                        // console.log('REEL!')
+                        // Rod is healthy, try to fish
+                        var hasSnag = document.querySelector('.popupBox.pbSkillup.cur').innerHTML.indexOf('Snag!') > -1;
+                        if (hasSnag) {
+                            this.snagCounterButton.click();
+                            // console.log('SNAG COUNTER!')
+                        } else {
+                            this.reelButton.click();
+                            // console.log('REEL!')
+                        }
                     }
                 });
             }
