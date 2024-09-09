@@ -82,7 +82,7 @@ class FishingBot {
                     attributesList: ["style"],
                     attributeOldValue: true,
                 }, (evt) => {
-                    console.log(evt)
+                    // console.log(evt)
                     var rodHealth = parseWidthAsInteger(evt.oldValue)
                     // console.log(rodHealth)
                     if(rodHealth && rodHealth <= 40) {
