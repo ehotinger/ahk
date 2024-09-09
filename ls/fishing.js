@@ -66,10 +66,7 @@ class FishingBot {
                 break;
             }
 
-            // TODO: Code can be improved below here for rods if they're close to breaking.
-            // Read in the rod's bar value (style: width) for health and click on Release Line if it gets to below a certain %
-
-            // Delay to avoid hyper loop
+            // Delay to avoid looping between next fish too quickly
             await new Promise(resolve => setTimeout(resolve, 1000));
         }
 
@@ -85,7 +82,17 @@ class FishingBot {
                     attributesList: ["style"],
                     attributeOldValue: true,
                 }, (evt) => {
-                    //console.log(evt)
+                    console.log(evt)
+                    var rodHealth = parseWidthAsInteger(evt.oldValue)
+                    // console.log(rodHealth)
+                    if(rodHealth && rodHealth <= 40) {
+                        console.log('Avoid rod break, cancel')
+                        this.releaseButton = document.querySelectorAll('a.abutGradBl.skBut')[2]
+                        if (this.releaseButton) {
+                            console.log('Clicked release')
+                            this.releaseButton.click();
+                        }
+                    }
                     var hasSnag = document.querySelector('.popupBox.pbSkillup.cur').innerHTML.indexOf('Snag!') > -1;
                     if (hasSnag) {
                         this.snagCounterButton.click();
@@ -100,6 +107,20 @@ class FishingBot {
 
         await new Promise(resolve => setTimeout(resolve, 100));
     }
+}
+
+function parseWidthAsInteger(styleString) {
+    if(!styleString) return null;
+    // Use a regular expression to find the width value
+    const widthMatch = styleString.match(/width:\s*(\d+)%/);
+    
+    // If a match is found, parse it as an integer and return
+    if (widthMatch && widthMatch[1]) {
+        return parseInt(widthMatch[1], 10);
+    }
+    
+    // Return null or a default value if no width is found
+    return null;
 }
 
 // Usage
