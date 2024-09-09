@@ -85,7 +85,7 @@ class FishingBot {
                     // console.log(evt)
                     var rodHealth = parseWidthAsInteger(evt.oldValue)
                     // console.log(rodHealth)
-                    if(rodHealth && rodHealth <= 40) {
+                    if(rodHealth && rodHealth <= 30) {
                         console.log('Avoid rod break, cancel')
                         this.releaseButton = document.querySelectorAll('a.abutGradBl.skBut')[2]
                         if (this.releaseButton) {
