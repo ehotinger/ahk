@@ -3,58 +3,72 @@
 //[name] == scrolloftownportal
 //[name] == scrollofidentify
 
-// ubers
+// uber tristram
 [name] == keyofterror
 [name] == keyofhate
 [name] == keyofdestruction
 //[name] == keyofterror 		# # [maxquantity] == 10
 //[name] == keyofhate 			# # [maxquantity] == 10
 //[name] == keyofdestruction 	# # [maxquantity] == 10
-[name] == mephistosbrain
-[name] == baalseye
-[name] == diabloshorn
+//[name] == mephistosbrain
+//[name] == baalseye
+//[name] == diabloshorn
+
+// uber ancients (rotw)
+[name] == uberancientsummonmaterialact1		
+[name] == uberancientsummonmaterialact2		
+[name] == uberancientsummonmaterialact3		
+[name] == uberancientsummonmaterialact4		
+[name] == uberancientsummonmaterialact5		
+
+// shards (rotw)
+[name] == westernworldstoneshard			
+[name] == easternworldstoneshard			
+[name] == southernworldstoneshard			
+[name] == deepworldstoneshard				
+[name] == northernworldstoneshard 			
 
 // tokens
-//[name] == twistedessenceofsuffering 		# # [maxquantity] == 20
-//[name] == chargedessenceofhatred 			# # [maxquantity] == 20
-//[name] == burningessenceofterror 			# # [maxquantity] == 5
-[name] == festeringessenceofdestruction 	# # [maxquantity] == 20
-[name] == tokenofabsolution 				# # [maxquantity] == 5
+//[name] == twistedessenceofsuffering 		# # [maxquantity] == 2
+//[name] == chargedessenceofhatred 			# # [maxquantity] == 2
+//[name] == burningessenceofterror 			# # [maxquantity] == 2
+//[name] == festeringessenceofdestruction 	# # [maxquantity] == 2
+//[name] == tokenofabsolution 				# # [maxquantity] == 5
 
 // runes
-[name] == elrune 	# # [maxquantity] == 1
-[name] == eldrune 	# # [maxquantity] == 1
-[name] == tirrune 	# # [maxquantity] == 1
-[name] == nefrune 	# # [maxquantity] == 1
-[name] == ethrune 	# # [maxquantity] == 1
-[name] == ithrune 	# # [maxquantity] == 1
-[name] == talrune 	# # [maxquantity] == 20
-[name] == ralrune 	# # [maxquantity] == 1
-[name] == ortrune 	# # [maxquantity] == 20
-[name] == thulrune 	# # [maxquantity] == 20
-[name] == amnrune 	# # [maxquantity] == 20
-[name] == solrune 	# # [maxquantity] == 2
-[name] == shaelrune # # [maxquantity] == 1
-[name] == dolrune 	# # [maxquantity] == 1
-[name] == helrune 	# # [maxquantity] == 20
-[name] == iorune 	# # [maxquantity] == 3
-[name] == lumrune 	# # [maxquantity] == 3
-[name] == korune 	# # [maxquantity] == 3
-[name] == falrune 	# # [maxquantity] == 3
-[name] == lemrune 	# # [maxquantity] == 3
+//[name] == elrune 	# # [maxquantity] == 1
+//[name] == eldrune 	# # [maxquantity] == 1
+//[name] == tirrune 	# # [maxquantity] == 1
+//[name] == nefrune 	# # [maxquantity] == 1
+//[name] == ethrune 	# # [maxquantity] == 1
+//[name] == ithrune 	# # [maxquantity] == 1
+[name] == talrune 	# # [maxquantity] == 10
+//[name] == ralrune 	# # [maxquantity] == 1
+[name] == ortrune 	# # [maxquantity] == 10
+[name] == thulrune 	# # [maxquantity] == 10
+[name] == amnrune 	# # [maxquantity] == 10
+[name] == solrune 	# # [maxquantity] == 10
+[name] == shaelrune # # [maxquantity] == 10
+[name] == dolrune 	# # [maxquantity] == 10
+[name] == helrune 	# # [maxquantity] == 10
+[name] == iorune 	# # [maxquantity] == 10
+[name] == lumrune 	# # [maxquantity] == 10
+[name] == korune 	# # [maxquantity] == 10
+[name] == falrune 	# # [maxquantity] == 10
+[name] == lemrune 	# # [maxquantity] == 10
 [name] == pulrune 	# # [maxquantity] == 10
-[name] == umrune 	# # [maxquantity] == 50
-[name] == malrune 	# # [maxquantity] == 50
-[name] == istrune 	# # [maxquantity] == 50
-[name] == gulrune 	# # [maxquantity] == 50
-[name] == vexrune 	# # [maxquantity] == 50
-[name] == ohmrune 	# # [maxquantity] == 50
-[name] == lorune 	# # [maxquantity] == 50
-[name] == surrune 	# # [maxquantity] == 50
-[name] == berrune 	# # [maxquantity] == 50
-[name] == jahrune 	# # [maxquantity] == 50
-[name] == chamrune 	# # [maxquantity] == 50
-[name] == zodrune 	# # [maxquantity] == 50
+[name] == umrune 	# # [maxquantity] == 10
+[name] == malrune 	# # [maxquantity] == 10
+[name] == istrune 	# # [maxquantity] == 10
+[name] == gulrune 	# # [maxquantity] == 10
+[name] == vexrune 	# # [maxquantity] == 10
+[name] == ohmrune 	# # [maxquantity] == 10
+[name] == lorune 	# # [maxquantity] == 10
+[name] == surrune 	# # [maxquantity] == 10
+[name] == berrune 	# # [maxquantity] == 10
+[name] == jahrune 	# # [maxquantity] == 10
+[name] == chamrune 	# # [maxquantity] == 10
+[name] == zodrune 	# # [maxquantity] == 10
 
 // gems
 //[name] == chippedamethyst 	# # [maxquantity] == 1
@@ -78,13 +92,13 @@
 //[name] == skull 				# # [maxquantity] == 1
 //[name] == sapphire 			# # [maxquantity] == 2
 //[name] == topaz 				# # [maxquantity] == 1
-//[name] == flawlessamethyst 	# # [maxquantity] == 3
-//[name] == flawlessdiamond 	# # [maxquantity] == 3
-//[name] == flawlessemerald 	# # [maxquantity] == 3
-//[name] == flawlessruby 		# # [maxquantity] == 3
-//[name] == flawlesssapphire 	# # [maxquantity] == 3
-//[name] == flawlessskull 		# # [maxquantity] == 3
-//[name] == flawlesstopaz 		# # [maxquantity] == 3
+[name] == flawlessamethyst 	# # [maxquantity] == 30
+[name] == flawlessdiamond 	# # [maxquantity] == 30
+[name] == flawlessemerald 	# # [maxquantity] == 30
+[name] == flawlessruby 		# # [maxquantity] == 30
+[name] == flawlesssapphire 	# # [maxquantity] == 30
+[name] == flawlessskull 		# # [maxquantity] == 30
+[name] == flawlesstopaz 		# # [maxquantity] == 30
 [name] == perfectamethyst 		# # [maxquantity] == 10
 [name] == perfectdiamond 		# # [maxquantity] == 10
 [name] == perfectemerald 		# # [maxquantity] == 10
