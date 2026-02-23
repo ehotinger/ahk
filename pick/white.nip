@@ -46,11 +46,10 @@
 [type] == auricshields	&& [quality] <= superior && [flag] != ethereal # [enhanceddefense] >= 15 && ([itemmaxdurabilitypercent] == 0 || [itemmaxdurabilitypercent] == 15) && ([sockets] == 0 || [sockets] == 3 || [sockets] == 4) && ([fireresist] >= 45 || ([enhanceddamage] >= 65 && [tohit] >= 121))
 [name] == towershield 	&& [quality] <= superior && [flag] != ethereal # [enhanceddefense] >= 15 && ([itemmaxdurabilitypercent] == 0 || [itemmaxdurabilitypercent] == 15) && ([sockets] == 0 || [sockets] == 3)
 [name] == trollnest 	&& [quality] <= superior && [flag] != ethereal # [enhanceddefense] >= 15 && ([itemmaxdurabilitypercent] == 0 || [itemmaxdurabilitypercent] == 15) && ([sockets] == 0 || [sockets] == 3)
-[name] == monarch 		&& [quality] <= superior && [flag] != ethereal # [enhanceddefense] >= 15 && ([itemmaxdurabilitypercent] == 0 || [itemmaxdurabilitypercent] == 15) && ([sockets] == 0 || [sockets] == 4)
-[name] == monarch 		&& [quality] <= superior && [flag] == ethereal # [defense] >= 333 && [sockets] == 4
+[name] == monarch 		&& [flag] != ethereal # ([sockets] == 0 || [sockets] == 4)
 
 // white helms
-//[type] == helm 		&& [quality] <= superior && [flag] != ethereal # [enhanceddefense] == 15 && ([itemmaxdurabilitypercent] == 0 || [itemmaxdurabilitypercent] == 15) && ([sockets] == 0 || [sockets] == 3)
+[type] == helm 		&& [quality] <= superior # [sockets] == 3
 //[type] == circlet 	&& [quality] <= superior && [flag] != ethereal # [enhanceddefense] == 15 && ([itemmaxdurabilitypercent] == 0 || [itemmaxdurabilitypercent] == 15) && ([sockets] == 0 || [sockets] == 3)
 [name] == corona 		&& [quality] <  superior && [flag] == ethereal # [defense] >= 247 && [sockets] == 0
 [name] == bonevisage 	&& [quality] <  superior && [flag] == ethereal # [defense] >= 235 && [sockets] == 0
