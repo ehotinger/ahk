@@ -40,10 +40,10 @@
 //[name] == eldrune 	# # [maxquantity] == 1
 //[name] == tirrune 	# # [maxquantity] == 1
 //[name] == nefrune 	# # [maxquantity] == 1
-//[name] == ethrune 	# # [maxquantity] == 1
-//[name] == ithrune 	# # [maxquantity] == 1
+[name] == ethrune 	# # [maxquantity] == 3
+[name] == ithrune 	# # [maxquantity] == 3
 [name] == talrune 	# # [maxquantity] == 10
-//[name] == ralrune 	# # [maxquantity] == 1
+[name] == ralrune 	# # [maxquantity] == 10
 [name] == ortrune 	# # [maxquantity] == 10
 [name] == thulrune 	# # [maxquantity] == 10
 [name] == amnrune 	# # [maxquantity] == 10
