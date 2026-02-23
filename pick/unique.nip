@@ -41,7 +41,7 @@
 [name] == mirroredboots 		&& [quality] == unique # [defense] >= 40 && [dexterity] >= 10 && [energy] >= 10 																				// Wraithstep 
 
 // unique helms
-[name] == sallet 				&& [quality] == unique && [flag] 					// rock stopper perfect
+[name] == sallet 				&& [quality] == unique 					// rock stopper perfect
 //[name] == sallet 				&& [quality] == unique && [flag] == ethereal # [enhanceddefense] >= 220 && [coldresist] >= 40 && [fireresist] >= 50 && [lightresist] >= 40						// eth rock stopper perfect
 [name] == grandcrown 			&& [quality] == unique									// crown of thieves perfect
 //[name] == grandcrown 			&& [quality] == unique && [flag] == ethereal # [enhanceddefense] == 190 && [itemgoldbonus] >= 100 && [lifeleech] >= 12											// eth crown of thieves
@@ -81,7 +81,7 @@
 [name] == studdedleather 		&& [quality] == unique && [flag] == ethereal # [defense] == 77																									// eth twitchthroe perfect
 [name] == serpentskinarmor 	&& [quality] == unique																// skin of the vipermagi perfect
 //[name] == serpentskinarmor 	&& [quality] == unique && [flag] != ethereal # [coldresist] >= 35																								// skin of the vipermagi
-[name] == cuirass 				&& [quality] == unique && [flag]																				// duriel's shell perfect
+[name] == cuirass 				&& [quality] == unique																				// duriel's shell perfect
 //[name] == cuirass 			&& [quality] == unique && [flag] == ethereal # [enhanceddefense] >= 200																							// eth duriel's shell perfect
 [name] == mesharmor 			&& [quality] == unique																						// shaftstop perfect
 //[name] == mesharmor 			&& [quality] == unique && [flag] == ethereal # [enhanceddefense] >= 220																							// eth shaftstop perfect
