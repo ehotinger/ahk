@@ -1,7 +1,7 @@
 // white non-eth armor
-[name] == archonplate && [quality] <  superior && [flag] != ethereal # ([sockets] == 3 || [sockets] == 4) # [maxquantity] == 2
-[name] == duskshroud 	&& [quality] <  superior && [flag] != ethereal # ([sockets] == 3 || [sockets] == 4) # [maxquantity] == 2
-[name] == mageplate 	&& [quality] <  superior && [flag] != ethereal # [sockets] == 3 					# [maxquantity] == 2
+[name] == archonplate && [quality] <=  superior && [flag] != ethereal # ([sockets] == 3 || [sockets] == 4) # [maxquantity] == 2
+[name] == duskshroud 	&& [quality] <=  superior && [flag] != ethereal # ([sockets] == 3 || [sockets] == 4) # [maxquantity] == 2
+[name] == mageplate 	&& [quality] <=  superior && [flag] != ethereal # [sockets] == 3 					# [maxquantity] == 2
 
 //[type] == armor 		&& [quality] <= superior && [flag] != ethereal # [enhanceddefense] >= 15 && ([itemmaxdurabilitypercent] == 0 || [itemmaxdurabilitypercent] == 15) && ([sockets] == 0 || [sockets] == 3 || [sockets] == 4)
 //[type] == armor 		&& [quality] <= superior && [flag] != ethereal && [class] == exceptional # [enhanceddefense] >= 15 && ([itemmaxdurabilitypercent] == 0 || [itemmaxdurabilitypercent] == 15) && ([sockets] == 0 || [sockets] == 3 || [sockets] == 4)
@@ -12,41 +12,40 @@
 //[name] == gothicplate 	&& [quality] <= superior && [flag] != ethereal # [enhanceddefense] == 15 && ([itemmaxdurabilitypercent] == 0 || [itemmaxdurabilitypercent] == 15) && ([sockets] == 0 || [sockets] == 3 || [sockets] == 4)
 //[name] == fullplatemail 	&& [quality] <= superior && [flag] != ethereal # [enhanceddefense] == 15 && ([itemmaxdurabilitypercent] == 0 || [itemmaxdurabilitypercent] == 15) && ([sockets] == 0 || [sockets] == 3 || [sockets] == 4)
 //[name] == ancientarmor 	&& [quality] <= superior && [flag] != ethereal # [enhanceddefense] == 15 && ([itemmaxdurabilitypercent] == 0 || [itemmaxdurabilitypercent] == 15) && ([sockets] == 3 || [sockets] == 4)
-//[name] == mageplate 		&& [quality] <= superior && [flag] != ethereal # [enhanceddefense] == 15 && ([itemmaxdurabilitypercent] == 0 || [itemmaxdurabilitypercent] == 15) && ([sockets] == 0 || [sockets] == 3)
-//[name] == duskshroud 		&& [quality] <= superior && [flag] != ethereal # [enhanceddefense] == 15 && ([itemmaxdurabilitypercent] == 0 || [itemmaxdurabilitypercent] == 15) && ([sockets] == 3 || [sockets] == 4)
-//[name] == wyrmhide 		&& [quality] <= superior && [flag] != ethereal # [enhanceddefense] == 15 && ([itemmaxdurabilitypercent] == 0 || [itemmaxdurabilitypercent] == 15) && ([sockets] == 3 || [sockets] == 4)
-//[name] == scarabhusk 		&& [quality] <= superior && [flag] != ethereal # [enhanceddefense] == 15 && ([itemmaxdurabilitypercent] == 0 || [itemmaxdurabilitypercent] == 15) && ([sockets] == 3 || [sockets] == 4)
-//[name] == wirefleece 		&& [quality] <= superior && [flag] != ethereal # [enhanceddefense] == 15 && ([itemmaxdurabilitypercent] == 0 || [itemmaxdurabilitypercent] == 15) && ([sockets] == 3 || [sockets] == 4)
-//[name] == archonplate 	&& [quality] <= superior && [flag] != ethereal # [enhanceddefense] == 15 && ([itemmaxdurabilitypercent] == 0 || [itemmaxdurabilitypercent] == 15) && ([sockets] == 3 || [sockets] == 4)
-//[name] == sacredarmor 	&& [quality] <= superior && [flag] != ethereal # [enhanceddefense] == 15 && ([itemmaxdurabilitypercent] == 0 || [itemmaxdurabilitypercent] == 15) && ([sockets] == 3 || [sockets] == 4)
-//[name] == russetarmor 	&& [quality] <= superior && [flag] != ethereal # [enhanceddefense] == 15 && ([itemmaxdurabilitypercent] == 0 || [itemmaxdurabilitypercent] == 15) && ([sockets] == 0 || [sockets] == 3 || [sockets] == 4)
+[name] == mageplate 		&& [quality] <= superior && [flag] != ethereal # [enhanceddefense] == 15 && ([itemmaxdurabilitypercent] == 0 || [itemmaxdurabilitypercent] == 15) && ([sockets] == 0 || [sockets] == 3)
+[name] == duskshroud 		&& [quality] <= superior && [flag] != ethereal # [enhanceddefense] == 15 && ([itemmaxdurabilitypercent] == 0 || [itemmaxdurabilitypercent] == 15) && ([sockets] == 3 || [sockets] == 4)
+[name] == wyrmhide 		&& [quality] <= superior && [flag] != ethereal # [enhanceddefense] == 15 && ([itemmaxdurabilitypercent] == 0 || [itemmaxdurabilitypercent] == 15) && ([sockets] == 3 || [sockets] == 4)
+[name] == scarabhusk 		&& [quality] <= superior && [flag] != ethereal # [enhanceddefense] == 15 && ([itemmaxdurabilitypercent] == 0 || [itemmaxdurabilitypercent] == 15) && ([sockets] == 3 || [sockets] == 4)
+[name] == wirefleece 		&& [quality] <= superior && [flag] != ethereal # [enhanceddefense] == 15 && ([itemmaxdurabilitypercent] == 0 || [itemmaxdurabilitypercent] == 15) && ([sockets] == 3 || [sockets] == 4)
+[name] == archonplate 	&& [quality] <= superior && [flag] != ethereal # [enhanceddefense] == 15 && ([itemmaxdurabilitypercent] == 0 || [itemmaxdurabilitypercent] == 15) && ([sockets] == 3 || [sockets] == 4)
+[name] == sacredarmor 	&& [quality] <= superior && [flag] != ethereal # [enhanceddefense] == 15 && ([itemmaxdurabilitypercent] == 0 || [itemmaxdurabilitypercent] == 15) && ([sockets] == 3 || [sockets] == 4)
+[name] == russetarmor 	&& [quality] <= superior && [flag] != ethereal # [enhanceddefense] == 15 && ([itemmaxdurabilitypercent] == 0 || [itemmaxdurabilitypercent] == 15) && ([sockets] == 0 || [sockets] == 3 || [sockets] == 4)
 
 // white eth armor
-[name] == duskshroud 	&& [quality] <= superior && [flag] == ethereal # [defense] >= 1000 && [sockets] == 4	
-[name] == wyrmhide 		&& [quality] <= superior && [flag] == ethereal # [defense] >= 1000 && [sockets] == 4
-[name] == scarabhusk 	&& [quality] <= superior && [flag] == ethereal # [defense] >= 1000 && [sockets] == 4
-[name] == wirefleece 	&& [quality] <= superior && [flag] == ethereal # [defense] >= 1000 && [sockets] == 4
-[name] == diamondmail 	&& [quality] <= superior && [flag] == ethereal # [defense] >= 1000 && [sockets] == 4
-[name] == loricatedmail && [quality] <= superior && [flag] == ethereal # [defense] >= 1000 && [sockets] == 4
-[name] == greathauberk 	&& [quality] <= superior && [flag] == ethereal # [defense] >= 1000 && [sockets] == 4
-[name] == boneweave 	&& [quality] <= superior && [flag] == ethereal # [defense] >= 1000 && [sockets] == 4
-[name] == balrogskin 	&& [quality] <= superior && [flag] == ethereal # [defense] >= 1000 && [sockets] == 4
-[name] == archonplate 	&& [quality] <= superior && [flag] == ethereal # [defense] >= 1000 && [sockets] == 4
-[name] == krakenshell 	&& [quality] <= superior && [flag] == ethereal # [defense] >= 1000 && [sockets] == 4	
-[name] == hellforgeplate && [quality] <= superior && [flag] == ethereal # [defense] >= 1000 && [sockets] == 4
-[name] == lacqueredplate && [quality] <= superior && [flag] == ethereal # [defense] >= 1000 && [sockets] == 4
+[name] == duskshroud 	&& [quality] <= superior && [flag] == ethereal # ([sockets] == 4 || [sockets] == 3)
+[name] == wyrmhide 		&& [quality] <= superior && [flag] == ethereal # ([sockets] == 4 || [sockets] == 3)
+[name] == scarabhusk 	&& [quality] <= superior && [flag] == ethereal # ([sockets] == 4 || [sockets] == 3)
+[name] == wirefleece 	&& [quality] <= superior && [flag] == ethereal # ([sockets] == 4 || [sockets] == 3)
+//[name] == diamondmail 	&& [quality] <= superior && [flag] == ethereal # ([sockets] == 4 || [sockets] == 3)
+//[name] == loricatedmail && [quality] <= superior && [flag] == ethereal # ([sockets] == 4 || [sockets] == 3)
+//[name] == greathauberk 	&& [quality] <= superior && [flag] == ethereal # [defense] >= 1000 && [sockets] == 4
+//[name] == boneweave 	&& [quality] <= superior && [flag] == ethereal # [defense] >= 1000 && [sockets] == 4
+[name] == balrogskin 	&& [quality] <= superior && [flag] == ethereal # ([sockets] == 4 || [sockets] == 3)
+[name] == archonplate 	&& [quality] <= superior && [flag] == ethereal # ([sockets] == 4 || [sockets] == 3)
+[name] == krakenshell 	&& [quality] <= superior && [flag] == ethereal # ([sockets] == 4 || [sockets] == 3)
+[name] == hellforgeplate && [quality] <= superior && [flag] == ethereal # ([sockets] == 4 || [sockets] == 3)
+[name] == lacqueredplate && [quality] <= superior && [flag] == ethereal # ([sockets] == 4 || [sockets] == 3)
 [name] == shadowplate 	&& [quality] <= superior && [flag] == ethereal # [defense] >= 1000 && [sockets] == 4
 [name] == sacredarmor 	&& [quality] <= superior && [flag] == ethereal # [defense] >= 1000 && ([sockets] == 2 || [sockets] == 4)
 
 // white shields
-[name] == monarch
 //[type] == auricshields 	&& [quality] <= superior && [flag] != ethereal # [fireresist] >= 42 && ([sockets] == 0 || [sockets] == 4) # [maxquantity] == 1
 //[type] == auricshields 	&& [quality] <= superior && [flag] == ethereal # [fireresist] >= 42 && ([sockets] == 0 || [sockets] == 4) # [maxquantity] == 1
 
 [type] == auricshields	&& [quality] <= superior && [flag] != ethereal # [enhanceddefense] >= 15 && ([itemmaxdurabilitypercent] == 0 || [itemmaxdurabilitypercent] == 15) && ([sockets] == 0 || [sockets] == 3 || [sockets] == 4) && ([fireresist] >= 45 || ([enhanceddamage] >= 65 && [tohit] >= 121))
 [name] == towershield 	&& [quality] <= superior && [flag] != ethereal # [enhanceddefense] >= 15 && ([itemmaxdurabilitypercent] == 0 || [itemmaxdurabilitypercent] == 15) && ([sockets] == 0 || [sockets] == 3)
 [name] == trollnest 	&& [quality] <= superior && [flag] != ethereal # [enhanceddefense] >= 15 && ([itemmaxdurabilitypercent] == 0 || [itemmaxdurabilitypercent] == 15) && ([sockets] == 0 || [sockets] == 3)
-[name] == monarch 		&& [flag] != ethereal # ([sockets] == 0 || [sockets] == 4)
+[name] == monarch 		&& [quality] <= superior && [flag] != ethereal # ([sockets] == 0 || [sockets] == 4)
 
 // white helms
 [type] == helm 		&& [quality] <= superior # [sockets] == 3

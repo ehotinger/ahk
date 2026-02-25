@@ -176,25 +176,25 @@
 [type] == jewel 			&& [quality] == magic # ([strength] >= 9 || [dexterity] >= 9 || [coldresist] >= 30 || [fireresist] >= 30 || [lightresist] >= 30 || [poisonresist] >= 30 || [fhr] >= 7 || [itemreqpercent] == -15) && ([ias] >= 15 || [plusdefense] >= 64 || [maxdamage] >= 15 || [enhanceddamage] >= 40 || [tohit] >= 100 || [coldresist]+[fireresist]+[lightresist]+[poisonresist] >= 60 || [maxmana] >= 20 || [maxhp] >= 20)
 
 // magic rings
-[type] == ring 				&& [quality] == magic # [itemmagicbonus] >= 30
-[type] == ring 				&& [quality] == magic # [fcr] >= 10 && [maxmana] >= 120
-[type] == ring 				&& [quality] == magic # [fcr] >= 10 && [coldresist]+[fireresist]+[lightresist]+[poisonresist] >= 60
+//[type] == ring 				&& [quality] == magic # [itemmagicbonus] >= 30
+//[type] == ring 				&& [quality] == magic # [fcr] >= 10 && [maxmana] >= 120
+//[type] == ring 				&& [quality] == magic # [fcr] >= 10 && [coldresist]+[fireresist]+[lightresist]+[poisonresist] >= 60
 
 // magic amulets
-[type] == amulet 			&& [quality] == magic # [itemmagicbonus] >= 50
-[type] == amulet 			&& [quality] == magic # [maxmana] >= 120 && [normaldamagereduction] >= 25
-[type] == amulet 			&& [quality] == magic # [maxmana] >= 120 && [maxhp] >= 100
-[type] == amulet 			&& [quality] == magic # [coldresist]+[fireresist]+[lightresist]+[poisonresist] >= 120 && [maxhp] >= 100
-[type] == amulet 			&& [quality] == magic # [coldresist]+[fireresist]+[lightresist]+[poisonresist] >= 120 && [itemmagicbonus] >= 35
-[type] == amulet 			&& [quality] == magic # [coldresist]+[fireresist]+[lightresist]+[poisonresist] >= 120 && [fcr] >= 10
+//[type] == amulet 			&& [quality] == magic # [itemmagicbonus] >= 50
+//[type] == amulet 			&& [quality] == magic # [maxmana] >= 120 && [normaldamagereduction] >= 25
+//[type] == amulet 			&& [quality] == magic # [maxmana] >= 120 && [maxhp] >= 100
+//[type] == amulet 			&& [quality] == magic # [coldresist]+[fireresist]+[lightresist]+[poisonresist] >= 120 && [maxhp] >= 100
+//[type] == amulet 			&& [quality] == magic # [coldresist]+[fireresist]+[lightresist]+[poisonresist] >= 120 && [itemmagicbonus] >= 35
+//[type] == amulet 			&& [quality] == magic # [coldresist]+[fireresist]+[lightresist]+[poisonresist] >= 120 && [fcr] >= 10
 
-[type] == amulet 			&& [quality] == magic # [itemaddskilltab] >= 3 && [strength] >= 10
-[type] == amulet 			&& [quality] == magic # [itemaddskilltab] >= 3 && [dexterity] >= 10
-[type] == amulet 			&& [quality] == magic # [itemaddskilltab] >= 3 && [maxhp] >= 70
-[type] == amulet 			&& [quality] == magic # [itemaddskilltab] >= 3 && [fcr] >= 10
+//[type] == amulet 			&& [quality] == magic # [itemaddskilltab] >= 3 && [strength] >= 10
+//[type] == amulet 			&& [quality] == magic # [itemaddskilltab] >= 3 && [dexterity] >= 10
+//[type] == amulet 			&& [quality] == magic # [itemaddskilltab] >= 3 && [maxhp] >= 70
+//[type] == amulet 			&& [quality] == magic # [itemaddskilltab] >= 3 && [fcr] >= 10
 //[type] == amulet 			&& [quality] == magic # [strength] >= 30 && [fireskilltab] >= 3
 //[type] == amulet 			&& [quality] == magic # [strength] >= 30 && [lightningskilltab] >= 3
-[type] == amulet 			&& [quality] == magic # [coldskilltab] >= 3
+//[type] == amulet 			&& [quality] == magic # [coldskilltab] >= 3
 //[type] == amulet 			&& [quality] == magic # [strength] >= 30 && [javelinandspearskilltab] >= 3
 //[type] == amulet 			&& [quality] == magic # [strength] >= 30 && [poisonandboneskilltab] >= 3
 //[type] == amulet 			&& [quality] == magic # [strength] >= 30 && [trapsskilltab] >= 3
@@ -225,9 +225,9 @@
 //[type] == amulet 			&& [quality] == magic # [fcr] >= 10 && [warcriesskilltab] >= 3
 //[type] == amulet 			&& [quality] == magic # [fcr] >= 10 && [elementalskilltab] >= 3
 
-[type] == amulet 			&& [quality] == magic # [itemaddclassskills] >= 2 && [dexterity] >= 30
-[type] == amulet 			&& [quality] == magic # [itemaddclassskills] >= 2 && [maxhp] >= 100
-[type] == amulet 			&& [quality] == magic # [itemaddclassskills] >= 2 && [fcr] >= 10
+//[type] == amulet 			&& [quality] == magic # [itemaddclassskills] >= 2 && [dexterity] >= 30
+//[type] == amulet 			&& [quality] == magic # [itemaddclassskills] >= 2 && [maxhp] >= 100
+//[type] == amulet 			&& [quality] == magic # [itemaddclassskills] >= 2 && [fcr] >= 10
 //[type] == amulet 			&& [quality] == magic # [dexterity] >= 30 && [sorceressskills] >= 2
 //[type] == amulet 			&& [quality] == magic # [dexterity] >= 30 && [amazonskills] >= 2
 //[type] == amulet 			&& [quality] == magic # [dexterity] >= 30 && [necromancerskills] >= 2
@@ -257,10 +257,10 @@
 //[name] == bonevisage 		&& [quality] == magic && [flag] != ethereal # [sockets] >= 3 && [maxhp] >= 40 && [defense] >= 157
 
 // magic shields
-[name] == monarch 			&& [quality] == magic # [sockets] >= 4 && [itemreqpercent] >= -30
-[name] == monarch 			&& [quality] == magic # [sockets] >= 4 && ([itemskillongethit] == 44 || [itemskillongethit] == 48)
-[name] == monarch 			&& [quality] == magic # ([maxhp] >= 60 || [fbr] >= 30) && [coldresist]+[fireresist]+[lightresist]+[poisonresist] >= 120
-[name] == monarch 			&& [quality] == magic # ([maxhp] >= 60 || [fbr] >= 30) && [enhanceddefense] >= 200
-[name] == monarch 			&& [quality] == magic # ([maxhp] >= 60 || [fbr] >= 30) && [sockets] >= 4
+//[name] == monarch 			&& [quality] == magic # [sockets] >= 4 && [itemreqpercent] >= -30
+//[name] == monarch 			&& [quality] == magic # [sockets] >= 4 && ([itemskillongethit] == 44 || [itemskillongethit] == 48)
+//[name] == monarch 			&& [quality] == magic # ([maxhp] >= 60 || [fbr] >= 30) && [coldresist]+[fireresist]+[lightresist]+[poisonresist] >= 120
+//[name] == monarch 			&& [quality] == magic # ([maxhp] >= 60 || [fbr] >= 30) && [enhanceddefense] >= 200
+//[name] == monarch 			&& [quality] == magic # ([maxhp] >= 60 || [fbr] >= 30) && [sockets] >= 4
 //[name] == trollnest 		&& [quality] == magic # ([maxhp] >= 60 || [fbr] >= 30) && [coldresist]+[fireresist]+[lightresist]+[poisonresist] >= 120
 //[name] == trollnest 		&& [quality] == magic # ([maxhp] >= 60 || [fbr] >= 30) && [sockets] >= 3

@@ -29,46 +29,46 @@
 [name] == northernworldstoneshard 			
 
 // tokens
-//[name] == twistedessenceofsuffering 		# # [maxquantity] == 2
-//[name] == chargedessenceofhatred 			# # [maxquantity] == 2
-//[name] == burningessenceofterror 			# # [maxquantity] == 2
-//[name] == festeringessenceofdestruction 	# # [maxquantity] == 2
-//[name] == tokenofabsolution 				# # [maxquantity] == 5
+[name] == twistedessenceofsuffering
+[name] == chargedessenceofhatred
+[name] == burningessenceofterror
+[name] == festeringessenceofdestruction
+[name] == tokenofabsolution
 
 // runes
-//[name] == elrune 	# # [maxquantity] == 1
-//[name] == eldrune 	# # [maxquantity] == 1
-//[name] == tirrune 	# # [maxquantity] == 1
-//[name] == nefrune 	# # [maxquantity] == 1
-[name] == ethrune 	# # [maxquantity] == 3
-[name] == ithrune 	# # [maxquantity] == 3
-[name] == talrune 	# # [maxquantity] == 0
-[name] == ralrune 	# # [maxquantity] == 0
-[name] == ortrune 	# # [maxquantity] == 0
-[name] == thulrune 	# # [maxquantity] == 0
-[name] == amnrune 	# # [maxquantity] == 0
-[name] == solrune 	# # [maxquantity] == 0
-[name] == shaelrune # # [maxquantity] == 0
-[name] == dolrune 	# # [maxquantity] == 0
-[name] == helrune 	# # [maxquantity] == 0
-[name] == iorune 	# # [maxquantity] == 0
-[name] == lumrune 	# # [maxquantity] == 0
-[name] == korune 	# # [maxquantity] == 0
-[name] == falrune 	# # [maxquantity] == 0
-[name] == lemrune 	# # [maxquantity] == 0
-[name] == pulrune 	# # [maxquantity] == 0
-[name] == umrune 	# # [maxquantity] == 0
-[name] == malrune 	# # [maxquantity] == 0
-[name] == istrune 	# # [maxquantity] == 0
-[name] == gulrune 	# # [maxquantity] == 0
-[name] == vexrune 	# # [maxquantity] == 0
-[name] == ohmrune 	# # [maxquantity] == 0
-[name] == lorune 	# # [maxquantity] == 0
-[name] == surrune 	# # [maxquantity] == 0
-[name] == berrune 	# # [maxquantity] == 0
-[name] == jahrune 	# # [maxquantity] == 0
-[name] == chamrune 	# # [maxquantity] == 0
-[name] == zodrune 	# # [maxquantity] == 0
+//[name] == elrune
+//[name] == eldrune
+//[name] == tirrune
+//[name] == nefrune
+//[name] == ethrune
+[name] == ithrune
+[name] == talrune
+[name] == ralrune
+[name] == ortrune
+[name] == thulrune
+[name] == amnrune
+[name] == solrune
+[name] == shaelrune
+[name] == dolrune
+[name] == helrune
+[name] == iorune
+[name] == lumrune
+[name] == korune
+[name] == falrune
+[name] == lemrune
+[name] == pulrune
+[name] == umrune
+[name] == malrune
+[name] == istrune
+[name] == gulrune
+[name] == vexrune
+[name] == ohmrune
+[name] == lorune
+[name] == surrune
+[name] == berrune
+[name] == jahrune
+[name] == chamrune
+[name] == zodrune
 
 // gems
 //[name] == chippedamethyst 	# # [maxquantity] == 1

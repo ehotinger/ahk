@@ -1,5 +1,5 @@
 // unique gloves
-[name] == heavygloves		&& [quality] == unique && [flag] != ethereal				// bloodfist
+//[name] == heavygloves		&& [quality] == unique && [flag] != ethereal				// bloodfist
 [name] == lightgauntlets 	&& [quality] == unique && [flag] != ethereal				// magefist
 [name] == chaingloves	 	&& [quality] == unique && [flag] != ethereal				// chance guards
 [name] == gauntlets 		&& [quality] == unique && [flag] != ethereal 				// frostburn
@@ -15,6 +15,7 @@
 [name] == spiderwebsash 	&& [quality] == unique && [flag] != ethereal				// arachnid mesh
 [name] == vampirefangbelt 	&& [quality] == unique && [flag] != ethereal				// nosferatu's coil
 [name] == mithrilcoil 		&& [quality] == unique && [flag] != ethereal				// verdungo's hearty cord
+[name] == trollbelt 	    && [quality] == unique  //Gheed's Wager
 
 // unique boots
 [name] == lightplatedboots 	&& [quality] == unique && [flag] != ethereal				// goblin toe
@@ -26,6 +27,8 @@
 [name] == scarabshellboots	&& [quality] == unique && [flag] == ethereal				// eth sandstorm trek
 [name] == boneweaveboots 	&& [quality] == unique && [flag] != ethereal				// marrowwalk
 [name] == myrmidongreaves 	&& [quality] == unique && [flag] != ethereal				// shadow dancer
+[name] == mirroredboots 	&& [quality] == unique									// Wraithstep 
+
 
 // unique helms
 [name] == sallet 			&& [quality] == unique && [flag] != ethereal 				// rockstopper
@@ -36,13 +39,16 @@
 [name] == grimhelm 			&& [quality] == unique && [flag] == ethereal 				// eth vampire gaze
 [name] == shako 			&& [quality] == unique && [flag] != ethereal				// harlequin crest
 [name] == shako 			&& [quality] == unique && [flag] == ethereal				// eth harlequin crest
+[name] == spiredhelm 			&& [quality] == unique && [flag] != ethereal			// nightwing's veil
 [name] == demonhead 		&& [quality] == unique && [flag] != ethereal 				// andariel's visage
 [name] == demonhead 		&& [quality] == unique && [flag] == ethereal 				// eth andariel's visage
 [name] == bonevisage 		&& [quality] == unique && [flag] != ethereal				// giant skull
 [name] == bonevisage 		&& [quality] == unique && [flag] == ethereal				// eth giant skull
-[name] == tiara 			&& [quality] == unique && [flag] != ethereal				// kira's guardian
+//[name] == tiara 			&& [quality] == unique && [flag] != ethereal				// kira's guardian
 [name] == diadem 			&& [quality] == unique && [flag] != ethereal				// griffon's eye
 [name] == corona 			&& [quality] == unique && [flag] != ethereal				// crown of ages
+[name] == deathmask 			&& [quality] == unique 											// Hellwarden's Will
+
 
 // unique armor
 [name] == serpentskinarmor	&& [quality] == unique && [flag] != ethereal				// skin of the vipermagi
@@ -71,10 +77,19 @@
 // unique daggers
 [name] == dagger 			&& [quality] == unique 										// gull
 [name] == boneknife 		&& [quality] == unique										// wizardspike
+[name] == mithrilpoint 			&& [quality] == unique  																																		// Bloodpact Shard
+
 
 // unique swords
 [name] == tulwar 			&& [quality] == unique && [flag] != ethereal				// blade of ali baba
 [name] == tulwar 			&& [quality] == unique && [flag] == ethereal				// eth blade of ali baba
+[name] == phaseblade 			&& [quality] == unique																	// azurewrath perfect
+[name] == colossusblade 		&& [quality] == unique																											// the grandfather perfect
+[name] == battlesword 			&& [quality] == unique && [flag] == ethereal																													// eth headstriker perfect
+[name] == espandon 				&& [quality] == unique && [flag] != ethereal # [enhanceddamage] >= 200																							// crainte vomir perfect
+[name] == espandon 				&& [quality] == unique && [flag] == ethereal # [enhanceddamage] >= 200																							// eth crainte vomir perfect
+[name] == legendsword 			&& [quality] == unique # [enhanceddamage] >= 133 && [manaleech] >= 3 																							// Dreadfang
+
 
 // unique axes
 [name] == cleaver 			&& [quality] == unique										// butcher's pupil
@@ -136,8 +151,8 @@
 // unique sorceress
 [name] == swirlingcrystal 	&& [quality] == unique && [flag] != ethereal				// the oculus
 [name] == swirlingcrystal 	&& [quality] == unique && [flag] == ethereal				// eth the oculus
-//[name] == eldritchorb 	&& [quality] == unique && [flag] != ethereal 				// eschuta's temper
-//[name] == eldritchorb 	&& [quality] == unique && [flag] == ethereal				// eth eschuta's temper
+[name] == eldritchorb 	&& [quality] == unique && [flag] != ethereal 				// eschuta's temper
+[name] == eldritchorb 	&& [quality] == unique && [flag] == ethereal				// eth eschuta's temper
 [name] == dimensionalshard 	&& [quality] == unique && [flag] != ethereal				// death's fathom
 [name] == dimensionalshard 	&& [quality] == unique && [flag] == ethereal				// eth death's fathom
 
@@ -153,10 +168,19 @@
 //[name] == sacredrondache 	&& [quality] == unique && [flag] == ethereal				// eth alma negra
 //[name] == gildedshield 	&& [quality] == unique 										// dragonscale
 
+
+// unique warlock
+[name] == blasphemousgrimoire   && [quality] == unique && [flag] != ethereal   									// Ars Al'Diablolos
+[name] == occulttome            && [quality] == unique && [flag] != ethereal                           									// Ars Dul'Mephistos
+[name] == blasphemousbompendium && [quality] == unique && [flag] != ethereal                              									// Ars Tor'Baalos
+[name] == burnttext             && [quality] == unique && [flag] != ethereal                               									// Measured Wrath
+
 // unique jewelery
 [type] == amulet 			&& [quality] == unique										// any unique amulet
 [type] == ring 			&& [quality] == unique										// any unique ring
 [type] == jewel 			&& [quality] == unique										// rainbow facet
+[type] == jewel 			&& [quality] == rare
+//[type] == jewel 			&& [quality] == magic
 
 // unique charms
 [name] == grandcharm 		&& [quality] == unique										// gheed's fortune
