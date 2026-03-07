@@ -1,40 +1,40 @@
 // unique gloves
 //[name] == heavygloves		&& [quality] == unique && [flag] != ethereal				// bloodfist
-[name] == lightgauntlets 	&& [quality] == unique && [flag] != ethereal				// magefist
-[name] == chaingloves	 	&& [quality] == unique && [flag] != ethereal				// chance guards
-[name] == gauntlets 		&& [quality] == unique && [flag] != ethereal 				// frostburn
+//[name] == lightgauntlets 	&& [quality] == unique && [flag] != ethereal				// magefist
+//[name] == chaingloves	 	&& [quality] == unique && [flag] != ethereal				// chance guards
+//[name] == gauntlets 		&& [quality] == unique && [flag] != ethereal 				// frostburn
 [name] == vampirebonegloves && [quality] == unique && [flag] != ethereal				// dracul's grasp
-[name] == ogregauntlets 	&& [quality] == unique && [flag] != ethereal				// steelrend
+//[name] == ogregauntlets 	&& [quality] == unique && [flag] != ethereal				// steelrend
 
 // unique belts
 //[name] == sash 			&& [quality] == unique && [flag] != ethereal				// lenymo
-[name] == heavybelt 		&& [quality] == unique && [flag] != ethereal				// goldwrap
-[name] == demonhidesash 	&& [quality] == unique && [flag] != ethereal				// string of ears
+//[name] == heavybelt 		&& [quality] == unique && [flag] != ethereal				// goldwrap
+//[name] == demonhidesash 	&& [quality] == unique && [flag] != ethereal				// string of ears
 //[name] == battlebelt 		&& [quality] == unique && [flag] != ethereal				// snowclash
-[name] == warbelt 			&& [quality] == unique && [flag] != ethereal				// thundergod's vigor
+//[name] == warbelt 			&& [quality] == unique && [flag] != ethereal				// thundergod's vigor
 [name] == spiderwebsash 	&& [quality] == unique && [flag] != ethereal				// arachnid mesh
-[name] == vampirefangbelt 	&& [quality] == unique && [flag] != ethereal				// nosferatu's coil
-[name] == mithrilcoil 		&& [quality] == unique && [flag] != ethereal				// verdungo's hearty cord
+//[name] == vampirefangbelt 	&& [quality] == unique && [flag] != ethereal				// nosferatu's coil
+//[name] == mithrilcoil 		&& [quality] == unique && [flag] != ethereal				// verdungo's hearty cord
 [name] == trollbelt 	    && [quality] == unique  //Gheed's Wager
 
 // unique boots
-[name] == lightplatedboots 	&& [quality] == unique && [flag] != ethereal				// goblin toe
-[name] == boots 			&& [quality] == unique && [flag] != ethereal				// hotspur
-[name] == sharkskinboots 	&& [quality] == unique && [flag] != ethereal				// waterwalk
+//[name] == lightplatedboots 	&& [quality] == unique && [flag] != ethereal				// goblin toe
+//[name] == boots 			&& [quality] == unique && [flag] != ethereal				// hotspur
+//[name] == sharkskinboots 	&& [quality] == unique && [flag] != ethereal				// waterwalk
 [name] == battleboots 		&& [quality] == unique && [flag] != ethereal				// war traveler
 [name] == warboots 			&& [quality] == unique && [flag] != ethereal				// gore rider
-[name] == scarabshellboots	&& [quality] == unique && [flag] != ethereal				// sandstorm trek
+//[name] == scarabshellboots	&& [quality] == unique && [flag] != ethereal				// sandstorm trek
 [name] == scarabshellboots	&& [quality] == unique && [flag] == ethereal				// eth sandstorm trek
-[name] == boneweaveboots 	&& [quality] == unique && [flag] != ethereal				// marrowwalk
+//[name] == boneweaveboots 	&& [quality] == unique && [flag] != ethereal				// marrowwalk
 [name] == myrmidongreaves 	&& [quality] == unique && [flag] != ethereal				// shadow dancer
-[name] == mirroredboots 	&& [quality] == unique									// Wraithstep 
+//[name] == mirroredboots 	&& [quality] == unique									// Wraithstep 
 
 
 // unique helms
-[name] == sallet 			&& [quality] == unique && [flag] != ethereal 				// rockstopper
-[name] == sallet 			&& [quality] == unique && [flag] == ethereal 				// eth rockstopper
-[name] == grandcrown 		&& [quality] == unique && [flag] != ethereal 				// crown of thieves
-[name] == grandcrown 		&& [quality] == unique && [flag] == ethereal 				// eth crown of thieves
+//[name] == sallet 			&& [quality] == unique && [flag] != ethereal 				// rockstopper
+//[name] == sallet 			&& [quality] == unique && [flag] == ethereal 				// eth rockstopper
+//[name] == grandcrown 		&& [quality] == unique && [flag] != ethereal 				// crown of thieves
+//[name] == grandcrown 		&& [quality] == unique && [flag] == ethereal 				// eth crown of thieves
 [name] == grimhelm 			&& [quality] == unique && [flag] != ethereal 				// vampire gaze
 [name] == grimhelm 			&& [quality] == unique && [flag] == ethereal 				// eth vampire gaze
 [name] == shako 			&& [quality] == unique && [flag] != ethereal				// harlequin crest
@@ -47,63 +47,63 @@
 //[name] == tiara 			&& [quality] == unique && [flag] != ethereal				// kira's guardian
 [name] == diadem 			&& [quality] == unique && [flag] != ethereal				// griffon's eye
 [name] == corona 			&& [quality] == unique && [flag] != ethereal				// crown of ages
-[name] == deathmask 			&& [quality] == unique 											// Hellwarden's Will
+//[name] == deathmask 			&& [quality] == unique 											// Hellwarden's Will
 
 
 // unique armor
 [name] == serpentskinarmor	&& [quality] == unique && [flag] != ethereal				// skin of the vipermagi
 [name] == cuirass 			&& [quality] == unique && [flag] == ethereal				// eth duriel's shell
-[name] == mesharmor 		&& [quality] == unique && [flag] != ethereal 				// shaftstop
+//[name] == mesharmor 		&& [quality] == unique && [flag] != ethereal 				// shaftstop
 [name] == mesharmor 		&& [quality] == unique && [flag] == ethereal 				// eth shaftstop
 [name] == russetarmor	 	&& [quality] == unique && [flag] != ethereal 				// skullder's ire
 [name] == russetarmor	 	&& [quality] == unique && [flag] == ethereal 				// eth skullder's ire
-[name] == templarcoat 		&& [quality] == unique && [flag] != ethereal 				// guardian angel
-[name] == templarcoat 		&& [quality] == unique && [flag] == ethereal 				// eth guardian angel
+//[name] == templarcoat 		&& [quality] == unique && [flag] != ethereal 				// guardian angel
+//[name] == templarcoat 		&& [quality] == unique && [flag] == ethereal 				// eth guardian angel
 [name] == wirefleece 		&& [quality] == unique && [flag] == ethereal 				// eth the gladiator's bane
 //[name] == balrogskin		&& [quality] == unique && [flag] != ethereal				// arkaine's valor
 //[name] == balrogskin		&& [quality] == unique && [flag] == ethereal				// eth arkaine's valor
-[name] == krakenshell 		&& [quality] == unique && [flag] != ethereal 				// leviathan
+//[name] == krakenshell 		&& [quality] == unique && [flag] != ethereal 				// leviathan
 [name] == shadowplate 		&& [quality] == unique && [flag] == ethereal 				// eth steel carapace
 [name] == chaosarmor 		&& [quality] == unique && [flag] == ethereal				// eth black hades
 [name] == sacredarmor 		&& [quality] == unique && [flag] != ethereal				// templar's might or tyreal's might
 [name] == sacredarmor 		&& [quality] == unique && [flag] == ethereal				// templar's might
 
 // unique shields
-[name] == roundshield 		&& [quality] == unique && [flag] != ethereal				// moser's blessed circle
-[name] == grimshield 		&& [quality] == unique && [flag] != ethereal				// lidless wall
-[name] == grimshield 		&& [quality] == unique && [flag] == ethereal				// eth lidless wall
-[name] == monarch 			&& [quality] == unique && [flag] != ethereal				// stormshield
+//[name] == roundshield 		&& [quality] == unique && [flag] != ethereal				// moser's blessed circle
+//[name] == grimshield 		&& [quality] == unique && [flag] != ethereal				// lidless wall
+//[name] == grimshield 		&& [quality] == unique && [flag] == ethereal				// eth lidless wall
+//[name] == monarch 			&& [quality] == unique && [flag] != ethereal				// stormshield
 
 // unique daggers
-[name] == dagger 			&& [quality] == unique 										// gull
-[name] == boneknife 		&& [quality] == unique										// wizardspike
-[name] == mithrilpoint 			&& [quality] == unique  																																		// Bloodpact Shard
+//[name] == dagger 			&& [quality] == unique 										// gull
+//[name] == boneknife 		&& [quality] == unique										// wizardspike
+//[name] == mithrilpoint 	&& [quality] == unique  							// Bloodpact Shard
 
 
 // unique swords
-[name] == tulwar 			&& [quality] == unique && [flag] != ethereal				// blade of ali baba
-[name] == tulwar 			&& [quality] == unique && [flag] == ethereal				// eth blade of ali baba
-[name] == phaseblade 			&& [quality] == unique																	// azurewrath perfect
+//[name] == tulwar 			&& [quality] == unique && [flag] != ethereal				// blade of ali baba
+//[name] == tulwar 			&& [quality] == unique && [flag] == ethereal				// eth blade of ali baba
+//[name] == phaseblade 			&& [quality] == unique																	// azurewrath perfect
 [name] == colossusblade 		&& [quality] == unique																											// the grandfather perfect
-[name] == battlesword 			&& [quality] == unique && [flag] == ethereal																													// eth headstriker perfect
-[name] == espandon 				&& [quality] == unique && [flag] != ethereal # [enhanceddamage] >= 200																							// crainte vomir perfect
-[name] == espandon 				&& [quality] == unique && [flag] == ethereal # [enhanceddamage] >= 200																							// eth crainte vomir perfect
-[name] == legendsword 			&& [quality] == unique # [enhanceddamage] >= 133 && [manaleech] >= 3 																							// Dreadfang
+//[name] == battlesword 			&& [quality] == unique && [flag] == ethereal																													// eth headstriker perfect
+//[name] == espandon 				&& [quality] == unique && [flag] != ethereal # [enhanceddamage] >= 200																							// crainte vomir perfect
+//[name] == espandon 				&& [quality] == unique && [flag] == ethereal # [enhanceddamage] >= 200																							// eth crainte vomir perfect
+//[name] == legendsword 			&& [quality] == unique # [enhanceddamage] >= 133 && [manaleech] >= 3 																							// Dreadfang
 
 
 // unique axes
-[name] == cleaver 			&& [quality] == unique										// butcher's pupil
-[name] == berserkeraxe 		&& [quality] == unique && [flag] == ethereal 				// eth death cleaver
+//[name] == cleaver 			&& [quality] == unique										// butcher's pupil
+//[name] == berserkeraxe 		&& [quality] == unique && [flag] == ethereal 				// eth death cleaver
 
 // unique bows and crossbows
 //[name] == shortsiegebow 	&& [quality] == unique										// witchwild string
 //[name] == wardbow 		&& [quality] == unique										// widowmaker
-[name] == hydrabow 			&& [quality] == unique										// windforce
+//[name] == hydrabow 			&& [quality] == unique										// windforce
 //[name] == ballista 		&& [quality] == unique										// buriza-do kyanon
 
 // unique maces
-[name] == tyrantclub 		&& [quality] == unique && [flag] != ethereal				// demon limb
-[name] == tyrantclub 		&& [quality] == unique && [flag] == ethereal				// eth demon limb
+//[name] == tyrantclub 		&& [quality] == unique && [flag] != ethereal				// demon limb
+//[name] == tyrantclub 		&& [quality] == unique && [flag] == ethereal				// eth demon limb
 
 // unique polearms
 //[name] == ogreaxe 		&& [quality] == unique && [flag] != ethereal				// bonehew
@@ -128,18 +128,18 @@
 
 // unique throwing weapons
 //[name] == wingedknife 	&& [quality] == unique && [flag] == ethereal				// eth warshrike
-[name] == wingedaxe 		&& [quality] == unique && [flag] == ethereal				// eth lacerator
+//[name] == wingedaxe 		&& [quality] == unique && [flag] == ethereal				// eth lacerator
 
 // unique wands 
-[name] == burntwand 		&& [quality] == unique && [flag] != ethereal				// suicide branch
-[name] == burntwand			&& [quality] == unique && [flag] == ethereal				// eth suicide branch
+//[name] == burntwand 		&& [quality] == unique && [flag] != ethereal				// suicide branch
+//[name] == burntwand			&& [quality] == unique && [flag] == ethereal				// eth suicide branch
 
 // unique amazon
 [name] == ceremonialjavelin && [quality] == unique && [flag] == ethereal				// eth titan's revenge
-[name] == matriarchaljavelin && [quality] == unique && [flag] != ethereal				// thunderstroke
+//[name] == matriarchaljavelin && [quality] == unique && [flag] != ethereal				// thunderstroke
 
 // unique necromancer
-[name] == hierophanttrophy 	&& [quality] == unique && [flag] != ethereal 				// homunculus
+//[name] == hierophanttrophy 	&& [quality] == unique && [flag] != ethereal 				// homunculus
 //[name] == bloodlordskull 	&& [quality] == unique && [flag] != ethereal				// darkforce spawn
 //[name] == succubusskull 	&& [quality] == unique && [flag] != ethereal 				// boneflame
 
@@ -157,8 +157,8 @@
 [name] == dimensionalshard 	&& [quality] == unique && [flag] == ethereal				// eth death's fathom
 
 // unique druid
-[name] == totemicmask 		&& [quality] == unique && [flag] != ethereal 				// jalal's mane
-[name] == bloodspirit 		&& [quality] == unique && [flag] != ethereal 				// cerebus' bite
+//[name] == totemicmask 		&& [quality] == unique && [flag] != ethereal 				// jalal's mane
+//[name] == bloodspirit 		&& [quality] == unique && [flag] != ethereal 				// cerebus' bite
 //[name] == skyspirit 		&& [quality] == unique && [flag] != ethereal 				// ravenlore
 
 // unique paladin
@@ -173,7 +173,7 @@
 [name] == blasphemousgrimoire   && [quality] == unique && [flag] != ethereal   									// Ars Al'Diablolos
 [name] == occulttome            && [quality] == unique && [flag] != ethereal                           									// Ars Dul'Mephistos
 [name] == blasphemousbompendium && [quality] == unique && [flag] != ethereal                              									// Ars Tor'Baalos
-[name] == burnttext             && [quality] == unique && [flag] != ethereal                               									// Measured Wrath
+//[name] == burnttext             && [quality] == unique && [flag] != ethereal                               									// Measured Wrath
 
 // unique jewelery
 [type] == amulet 			&& [quality] == unique										// any unique amulet

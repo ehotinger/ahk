@@ -93,7 +93,7 @@
 
 // aldur's watchtower
 //[name] == huntersguise 	&& [quality] == set								// aldur's advance perfect
-[name] == battleboots 		&& [quality] == set																								// aldur's advance
+//[name] == battleboots 		&& [quality] == set																								// aldur's advance
 //[name] == shadowplate 	&& [quality] == set 																							// aldur's deception
 //[name] == jaggedstar 		&& [quality] == set 																							// aldur's rhythm
 
@@ -115,8 +115,8 @@
 
 // griswold's legacy
 //[name] == ornateplate 		&& [quality] == set # [defense] >= 950																			// griswold's heart perfect
-[name] == corona 			&& [quality] == set # [defense] >= 290 && [itemmagicbonus] >= 30												// griswold's valor perfect
-[name] == caduceus 			&& [quality] == set # [sockets] >= 4 && [enhanceddamage] >= 240													// griswold's redemption perfect
+//[name] == corona 			&& [quality] == set # [defense] >= 290 && [itemmagicbonus] >= 30												// griswold's valor perfect
+//[name] == caduceus 			&& [quality] == set # [sockets] >= 4 && [enhanceddamage] >= 240													// griswold's redemption perfect
 //[name] == vortexshield 	&& [quality] == set # [defense] >= 333																			// griswold's honor perfect
 //[name] == vortexshield 		&& [quality] == set																								// griswold's honor
 
@@ -136,7 +136,7 @@
 //[name] == warbelt 			&& [quality] == set 																							// immortal king's detail
 //[name] == avengerguard 		&& [quality] == set 																							// immortal king's will
 //[name] == ogremaul 			&& [quality] == set 																							// immortal king's stone crusher
-[name] == sacredarmor 		&& [quality] == set 																							// immortal king's soul cage
+//[name] == sacredarmor 		&& [quality] == set 																							// immortal king's soul cage
 //[name] == wargauntlets 		&& [quality] == set 																							// immortal king's forge
 //[name] == warboots 			&& [quality] == set 																							// immortal king's pillar
 
@@ -152,7 +152,7 @@
 //[name] == grimhelm 			&& [quality] == set																								// natalya's totem
 //[name] == scissorssuwayyah && [quality] == set																							// natalya's mark
 //[name] == loricatedmail 	&& [quality] == set # [defense] >= 721 && [sockets] >= 3	 													// natalya's shadow perfect
-[name] == meshboots 		&& [quality] == set 							// natalya's soul perfect
+//[name] == meshboots 		&& [quality] == set 							// natalya's soul perfect
 
 // naj's ancient vestige
 //[name] == circlet 		&& [quality] == set 																							// naj's circlet
@@ -177,8 +177,8 @@
 //[name] == balrogskin 		&& [quality] == set 																							// sazabi's ghost liberator
 
 // tal rasha's wrappings
-[name] == swirlingcrystal 	&& [quality] == set 																							// tal rasha's lidless eye
-[name] == deathmask 		&& [quality] == set 																							// tal rasha's horadric crest
+//[name] == swirlingcrystal 	&& [quality] == set 																							// tal rasha's lidless eye
+//[name] == deathmask 		&& [quality] == set 																							// tal rasha's horadric crest
 //[name] == lacqueredplate 	&& [quality] == set # [defense] >= 941 																			// tal rasha's guardianship perfect
 [name] == lacqueredplate 	&& [quality] == set																								// tal rasha's guardianship
 [type] == amulet 			&& [quality] == set # [sorceressskills] == 2 																	// tal rasha's adjucation
@@ -190,18 +190,18 @@
 //[name] == chaosarmor 		&& [quality] == set # [defense] >= 857 																			// trang-oul's scales perfect
 //[name] == cantortrophy 		&& [quality] == set # [defense] >= 189 && [fireresist] >= 45													// trang-oul's wing perfect
 //[name] == trollbelt 		&& [quality] == set # [defense] >= 166 && [maxmana] >= 50														// trang-oul's girth perfect
-[name] == trollbelt 		&& [quality] == set																								// trang-oul's girth
+//[name] == trollbelt 		&& [quality] == set																								// trang-oul's girth
 //[name] == heavybracers 	&& [quality] == set # [defense] >= 74 																			// trang-oul's claws perfect
-[name] == heavybracers 		&& [quality] == set					 																			// trang-oul's claws
+//[name] == heavybracers 		&& [quality] == set					 																			// trang-oul's claws
 
 //Bane's Garments
-[name] == kris && [quality] == set 																											//Banes Oathmaker
+//[name] == kris && [quality] == set 																											//Banes Oathmaker
 //[name] == hardleatherarmor && [quality] == set 																								// Banes Wraithskin
 //[name] == lightbelt && [quality] == set 																									// Banes Authority
 
 //Horazon's Splendor
-[name] == demonhead && [quality] == set 												 													// Horazons Countenance
-[name] == russetarmor && [quality] == set 																									// Horazons Dominion
-[name] == demonhidegloves && [quality] == set  																								// Horazon's Hold
+//[name] == demonhead && [quality] == set 												 													// Horazons Countenance
+//[name] == russetarmor && [quality] == set 																									// Horazons Dominion
+//[name] == demonhidegloves && [quality] == set  																								// Horazon's Hold
 [name] == mirroredboots && [quality] == set 																								// Horazon's Legacy
 [name] == occultcodex && [quality] == set 																									// Horazon's Legacy

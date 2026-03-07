@@ -29,8 +29,8 @@
 [name] == northernworldstoneshard 			
 
 // tokens
-[name] == twistedessenceofsuffering
-[name] == chargedessenceofhatred
+//[name] == twistedessenceofsuffering
+//[name] == chargedessenceofhatred
 [name] == burningessenceofterror
 [name] == festeringessenceofdestruction
 [name] == tokenofabsolution
@@ -41,19 +41,19 @@
 //[name] == tirrune
 //[name] == nefrune
 //[name] == ethrune
-[name] == ithrune
-[name] == talrune
-[name] == ralrune
-[name] == ortrune
-[name] == thulrune
-[name] == amnrune
-[name] == solrune
-[name] == shaelrune
-[name] == dolrune
-[name] == helrune
-[name] == iorune
-[name] == lumrune
-[name] == korune
+//[name] == ithrune
+//[name] == talrune
+//[name] == ralrune
+//[name] == ortrune
+//[name] == thulrune
+//[name] == amnrune
+//[name] == solrune
+//[name] == shaelrune
+//[name] == dolrune
+//[name] == helrune
+//[name] == iorune
+//[name] == lumrune
+//[name] == korune
 [name] == falrune
 [name] == lemrune
 [name] == pulrune
@@ -71,34 +71,34 @@
 [name] == zodrune
 
 // gems
-//[name] == chippedamethyst 	# # [maxquantity] == 1
-//[name] == chippeddiamond 		# # [maxquantity] == 1
-//[name] == chippedemerald 		# # [maxquantity] == 1
-//[name] == chippedruby 		# # [maxquantity] == 1
-//[name] == chippedsapphire 	# # [maxquantity] == 1
-//[name] == chippedskull 		# # [maxquantity] == 1
-//[name] == chippedtopaz 		# # [maxquantity] == 1
-//[name] == flawedamethyst 		# # [maxquantity] == 1
-//[name] == flaweddiamond 		# # [maxquantity] == 1
-//[name] == flawedemerald 		# # [maxquantity] == 1
-//[name] == flawedruby 			# # [maxquantity] == 1
-//[name] == flawedsapphire 		# # [maxquantity] == 1
-//[name] == flawedskull 		# # [maxquantity] == 1
-//[name] == flawedtopaz 		# # [maxquantity] == 1
-//[name] == amethyst 			# # [maxquantity] == 2
-//[name] == diamond 			# # [maxquantity] == 1
-//[name] == emerald 			# # [maxquantity] == 1
-//[name] == ruby 				# # [maxquantity] == 2
-//[name] == skull 				# # [maxquantity] == 1
-//[name] == sapphire 			# # [maxquantity] == 2
-//[name] == topaz 				# # [maxquantity] == 1
-[name] == flawlessamethyst 	# # [maxquantity] == 0
-[name] == flawlessdiamond 	# # [maxquantity] == 0
-[name] == flawlessemerald 	# # [maxquantity] == 0
-[name] == flawlessruby 		# # [maxquantity] == 0
-[name] == flawlesssapphire 	# # [maxquantity] == 0
-[name] == flawlessskull 		# # [maxquantity] == 0
-[name] == flawlesstopaz 		# # [maxquantity] == 0
+//[name] == chippedamethyst 	# # [maxquantity] == 0
+//[name] == chippeddiamond 		# # [maxquantity] == 0
+//[name] == chippedemerald 		# # [maxquantity] == 0
+//[name] == chippedruby 		# # [maxquantity] == 0
+//[name] == chippedsapphire 	# # [maxquantity] == 0
+//[name] == chippedskull 		# # [maxquantity] == 0
+//[name] == chippedtopaz 		# # [maxquantity] == 0
+//[name] == flawedamethyst 		# # [maxquantity] == 0
+//[name] == flaweddiamond 		# # [maxquantity] == 0
+//[name] == flawedemerald 		# # [maxquantity] == 0
+//[name] == flawedruby 			# # [maxquantity] == 0
+//[name] == flawedsapphire 		# # [maxquantity] == 0
+//[name] == flawedskull 		# # [maxquantity] == 0
+//[name] == flawedtopaz 		# # [maxquantity] == 0
+//[name] == amethyst 			# # [maxquantity] == 0
+//[name] == diamond 			# # [maxquantity] == 0
+//[name] == emerald 			# # [maxquantity] == 0
+//[name] == ruby 				# # [maxquantity] == 0
+//[name] == skull 				# # [maxquantity] == 0
+//[name] == sapphire 			# # [maxquantity] == 0
+//[name] == topaz 				# # [maxquantity] == 0
+//[name] == flawlessamethyst 	# # [maxquantity] == 0
+//[name] == flawlessdiamond 	# # [maxquantity] == 0
+//[name] == flawlessemerald 	# # [maxquantity] == 0
+//[name] == flawlessruby 		# # [maxquantity] == 0
+//[name] == flawlesssapphire 	# # [maxquantity] == 0
+//[name] == flawlessskull 		# # [maxquantity] == 0
+//[name] == flawlesstopaz 		# # [maxquantity] == 0
 [name] == perfectamethyst 		# # [maxquantity] == 0
 [name] == perfectdiamond 		# # [maxquantity] == 0
 [name] == perfectemerald 		# # [maxquantity] == 0
