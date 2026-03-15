@@ -157,7 +157,7 @@
 // naj's ancient vestige
 //[name] == circlet 		&& [quality] == set 																							// naj's circlet
 //[name] == hellforgeplate 	&& [quality] == set 																							// naj's light plate
-[name] == elderstaff 		&& [quality] == set 																							// naj's puzzler
+//[name] == elderstaff 		&& [quality] == set 																							// naj's puzzler
 
 // orphan's call
 //[name] == wingedhelm 		&& [quality] == set 																							// guillaume's face
@@ -182,7 +182,7 @@
 //[name] == lacqueredplate 	&& [quality] == set # [defense] >= 941 																			// tal rasha's guardianship perfect
 [name] == lacqueredplate 	&& [quality] == set																								// tal rasha's guardianship
 [type] == amulet 			&& [quality] == set # [sorceressskills] == 2 																	// tal rasha's adjucation
-//[name] == meshbelt 		&& [quality] == set # [itemmagicbonus] >= 15 																	// tal rasha's fine-spun cloth
+//[name] == meshbelt 		&& [quality] == set # [itemmagicbonus] >= 14 																	// tal rasha's fine-spun cloth
 [name] == meshbelt 			&& [quality] == set																								// tal rasha's fine-spun cloth
 
 // trang-oul's avatar
@@ -203,5 +203,5 @@
 //[name] == demonhead && [quality] == set 												 													// Horazons Countenance
 //[name] == russetarmor && [quality] == set 																									// Horazons Dominion
 //[name] == demonhidegloves && [quality] == set  																								// Horazon's Hold
-[name] == mirroredboots && [quality] == set 																								// Horazon's Legacy
-[name] == occultcodex && [quality] == set 																									// Horazon's Legacy
+//[name] == mirroredboots && [quality] == set 																								// Horazon's Legacy
+//[name] == occultcodex && [quality] == set 																									// Horazon's Legacy

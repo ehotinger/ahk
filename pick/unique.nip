@@ -4,7 +4,7 @@
 //[name] == lightgauntlets 		&& [quality] == unique && [flag] != ethereal																					// magefist perfect
 //[name] == gauntlets 			&& [quality] == unique && [flag] != ethereal 																						// frostburn perfect
 //[name] == vampirebonegloves 	&& [quality] == unique && [flag] != ethereal # [strength] == 15 && [lifeleech] >= 10 && [itemhealafterkill] >= 10 && [enhanceddefense] >= 120					// dracul's grasp perfect
-[name] == vampirebonegloves 	&& [quality] == unique && [flag] != ethereal																									// dracul's grasp
+//[name] == vampirebonegloves 	&& [quality] == unique && [flag] != ethereal																									// dracul's grasp
 //[name] == ogregauntlets 		&& [quality] == unique && [flag] != ethereal # [enhanceddamage] >= 60 && [strength] >= 20 && [plusdefense] >= 210												// steelrend perfect
 //[name] == ogregauntlets 		&& [quality] == unique && [flag] != ethereal																	// steelrend
 
@@ -44,7 +44,7 @@
 //[name] == sallet 				&& [quality] == unique && [flag] == ethereal # [enhanceddefense] >= 220 && [coldresist] >= 40 && [fireresist] >= 50 && [lightresist] >= 40						// eth rock stopper perfect
 //[name] == grandcrown 			&& [quality] == unique									// crown of thieves perfect
 //[name] == grandcrown 			&& [quality] == unique && [flag] == ethereal # [enhanceddefense] == 190 && [itemgoldbonus] >= 100 && [lifeleech] >= 12											// eth crown of thieves
-[name] == grimhelm 			&& [quality] == unique		// vampire gaze perfect
+//[name] == grimhelm 			&& [quality] == unique		// vampire gaze perfect
 //[name] == grimhelm 			&& [quality] == unique && [flag] == ethereal # [lifeleech] >= 8 && [manaleech] >= 8 && [damageresist] >= 20 && [magicdamagereduction] >= 15						// eth vampire gaze perfect
 //[name] == grimhelm 			&& [quality] == unique && [flag] != ethereal # [damageresist] >= 20																								// vampire gaze
 //[name] == grimhelm 			&& [quality] == unique && [flag] == ethereal # [damageresist] >= 20																								// eth vampire gaze
@@ -57,7 +57,7 @@
 //[name] == demonhead 			&& [quality] == unique && [flag] != ethereal # [enhanceddefense] >= 150 && [strength] >= 30 && [lifeleech] >= 10												// andariel's visage perfect
 //[name] == demonhead 			&& [quality] == unique && [flag] == ethereal # [enhanceddefense] >= 150 && [strength] >= 30 && [lifeleech] >= 10												// eth andariel's visage perfect
 //[name] == bonevisage 			&& [quality] == unique # [sockets] >= 2 && [strength] >= 35 && [plusdefense] >= 320																				// giant skull perfect
-[name] == bonevisage 			&& [quality] == unique # [sockets] >= 2																															// giant skull
+//[name] == bonevisage 			&& [quality] == unique # [sockets] >= 2																															// giant skull
 //[name] == tiara 				&& [quality] == unique # [coldresist]+[fireresist]+[lightresist]+[poisonresist] >= 280 && [plusdefense] >= 120													// kira's guardian perfect
 //[name] == tiara 				&& [quality] == unique # [coldresist]+[fireresist]+[lightresist]+[poisonresist] >= 280																			// kira's guardian
 [name] == diadem 				&& [quality] == unique				// griffon's eye perfect
@@ -81,14 +81,14 @@
 //[name] == serpentskinarmor 	&& [quality] == unique && [flag] != ethereal # [coldresist] >= 35																								// skin of the vipermagi
 //[name] == cuirass 				&& [quality] == unique																				// duriel's shell perfect
 //[name] == cuirass 			&& [quality] == unique && [flag] == ethereal # [enhanceddefense] >= 200																							// eth duriel's shell perfect
-[name] == mesharmor 			&& [quality] == unique																						// shaftstop perfect
+//[name] == mesharmor 			&& [quality] == unique																						// shaftstop perfect
 //[name] == mesharmor 			&& [quality] == unique && [flag] == ethereal # [enhanceddefense] >= 220																							// eth shaftstop perfect
-[name] == russetarmor 		&& [quality] == unique																					// eth skullder's ire perfect
+//[name] == russetarmor 		&& [quality] == unique																					// eth skullder's ire perfect
 //[name] == templarcoat 		&& [quality] == unique && [flag] != ethereal # [enhanceddefense] >= 200																							// guardian angel perfect
 //[name] == templarcoat 		&& [quality] == unique && [flag] == ethereal # [enhanceddefense] >= 200																							// eth guardian angel perfect
 //[name] == sharktootharmor 		&& [quality] == unique && [flag] != ethereal # [enhanceddefense] >= 220 && [plusdefense] == 60 && [itemattackertakesdamage] == 40								// toothrow perfect
 //[name] == sharktootharmor 		&& [quality] == unique && [flag] == ethereal # [enhanceddefense] >= 220 && [plusdefense] == 60 && [itemattackertakesdamage] == 40								// eth toothrow perfect
-[name] == wirefleece 			&& [quality] == unique && [flag] == ethereal # [enhanceddefense] >= 200 && [normaldamagereduction] >= 20 && [magicdamagereduction] >= 20						// the gladiator's bane perfect
+//[name] == wirefleece 			&& [quality] == unique && [flag] == ethereal # [enhanceddefense] >= 200 && [normaldamagereduction] >= 20 && [magicdamagereduction] >= 20						// the gladiator's bane perfect
 [name] == balrogskin 			&& [quality] == unique && [flag] != ethereal # [enhanceddefense] >= 180 && [itemallskills] >= 2 && [normaldamagereduction] >= 15								// arkaine's valor perfect
 [name] == balrogskin 			&& [quality] == unique && [flag] == ethereal # [enhanceddefense] >= 180 && [itemallskills] >= 2 && [normaldamagereduction] >= 15								// eth arkaine's valor perfect
 //[name] == krakenshell 		&& [quality] == unique && [flag] != ethereal # [enhanceddefense] >= 200 && [plusdefense] >= 150 && [damageresist] >= 25 && [strength] >= 50						// leviathan perfect
@@ -97,9 +97,10 @@
 //[name] == chaosarmor 			&& [quality] == unique && [flag] == ethereal # [enhanceddefense] >= 200 && [itemdemondamagepercent] >= 60 && [itemdemontohit] >= 250							// eth black hades perfect
 [name] == sacredarmor 		&& [quality] == unique								// tyreal's might perfect
 //[name] == sacredarmor 			&& [quality] == unique # [strength] >= 30 && [fireresist] >= 30																								//tyreal's might
-[name] == duskshroud 			&& [quality] == unique && [flag] != ethereal # [passiveltngmastery] >= 12 && ([skilllightning] >= 3 || [skillnova] >= 3)										//ormus' robes
-[name] == duskshroud 			&& [quality] == unique && [flag] != ethereal # [passivecoldmastery] >= 12 && [skillblizzard] >= 3																//ormus' robes
-[name] == duskshroud 			&& [quality] == unique && [flag] != ethereal # [passivefiremastery] >= 12 && [skillfireball] >= 3																//ormus' robes
+[name] == duskshroud 			&& [quality] == unique && [flag] != ethereal # [passiveltngmastery] >= 15 && ([skilllightning] >= 3 || [skillnova] >= 3)										//ormus' robes
+[name] == duskshroud 			&& [quality] == unique && [flag] != ethereal # [passivecoldmastery] >= 15 && [skillblizzard] >= 3																//ormus' robes
+[name] == duskshroud 			&& [quality] == unique && [flag] != ethereal # [passivefiremastery] >= 15 && [skillfireball] >= 3																//ormus' robes
+[name] == duskshroud 			&& [quality] == unique && [flag] != ethereal # [passiveltngmastery] >= 15 && [passivefiremastery] >= 15 && [passivecoldmastery] >= 15 && ([skilllightning] >= 3 || [skillnova] >= 3 || [skillfireball] >= 3 || [skillblizzard] >= 3) 	// ormus' robes
 //[name] == duskshroud 			&& [quality] == unique && [flag] != ethereal # [passiveltngmastery] >= 12 && [passivefiremastery] >= 12 && [passivecoldmastery] >= 12 && ([skilllightning] >= 3 || [skillnova] >= 3 || [skillfireball] >= 3 || [skillblizzard] >= 3) // ormus' robes
 //[name] == sacredarmor 		&& [quality] == unique && [flag] == ethereal # [strength] >= 15 && [vitality] >= 15 && [itemaddoffensiveaurasskilltab] >= 2 && [enhanceddefense] >= 220 && [armorclassvsmissile] >= 300 && [maxstamina] >= 50	// eth templar's might perfect
 //[name] == sacredarmor 		&& [quality] == unique && [flag] != ethereal # [strength] >= 15 && [vitality] >= 15 && [itemaddoffensiveaurasskilltab] >= 2 && [enhanceddefense] >= 220 && [armorclassvsmissile] >= 300 && [maxstamina] >= 50	// templar's might perfect
@@ -251,7 +252,7 @@
 [name] == blasphemousgrimoire   && [quality] == unique    									// Ars Al'Diablolos
 [name] == occulttome            && [quality] == unique                           									// Ars Dul'Mephistos
 [name] == blasphemousbompendium && [quality] == unique                                 									// Ars Tor'Baalos
-[name] == burnttext             && [quality] == unique                                									// Measured Wrath
+//[name] == burnttext             && [quality] == unique                                									// Measured Wrath
 
 // unique rings
 [type] == ring 					&& [quality] == unique # [itemmagicbonus] >= 30 && [tohit] >= 75																								// nagelring perfect
