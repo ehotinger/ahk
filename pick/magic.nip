@@ -133,7 +133,8 @@
 [name] == smallcharm 		&& [quality] == magic # [coldresist]+[fireresist]+[lightresist]+[poisonresist] >= 20
 [name] == smallcharm 		&& [quality] == magic # [maxdamage] >= 4 && [tohit] >= 20
 
-[name] == smallcharm 		&& [quality] == magic # [maxhp] >= 18
+// 20 life small charms minimum - adjust as needed
+[name] == smallcharm 		&& [quality] == magic # [maxhp] >= 20
 //[name] == smallcharm		&& [quality] == magic # [maxhp] >= 15 && [maxmana] >= 10
 //[name] == smallcharm		&& [quality] == magic # [maxhp] >= 20 && [fireresist] >= 11
 //[name] == smallcharm		&& [quality] == magic # [maxhp] >= 20 && [coldresist] >= 11

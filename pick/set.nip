@@ -180,10 +180,10 @@
 //[name] == swirlingcrystal 	&& [quality] == set 																							// tal rasha's lidless eye
 //[name] == deathmask 		&& [quality] == set 																							// tal rasha's horadric crest
 //[name] == lacqueredplate 	&& [quality] == set # [defense] >= 941 																			// tal rasha's guardianship perfect
-[name] == lacqueredplate 	&& [quality] == set																								// tal rasha's guardianship
-[type] == amulet 			&& [quality] == set # [sorceressskills] == 2 																	// tal rasha's adjucation
+//[name] == lacqueredplate 	&& [quality] == set																								// tal rasha's guardianship
+//[type] == amulet 			&& [quality] == set # [sorceressskills] == 2 																	// tal rasha's adjucation
 //[name] == meshbelt 		&& [quality] == set # [itemmagicbonus] >= 14 																	// tal rasha's fine-spun cloth
-[name] == meshbelt 			&& [quality] == set																								// tal rasha's fine-spun cloth
+//[name] == meshbelt 			&& [quality] == set																								// tal rasha's fine-spun cloth
 
 // trang-oul's avatar
 //[name] == bonevisage 		&& [quality] == set # [defense] >= 257 																			// trang-oul's guise perfect

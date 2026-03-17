@@ -25,11 +25,13 @@
 //[Name] == RussetArmor && [Quality] <= Superior && [Flag] != Ethereal # [EnhancedDefense] == 15 && ([ItemMaxDurabilityPercent] == 0 || [ItemMaxDurabilityPercent] == 15) && ([Sockets] == 0 || [Sockets] == 3 || [Sockets] == 4)
 
 
-[Name] == BreastPlate && [Quality] <= Superior && [Flag] != Ethereal # [EnhancedDefense] >= 15 && ([ItemMaxDurabilityPercent] == 0 || [ItemMaxDurabilityPercent] == 15) && ([Sockets] == 0 || [Sockets] == 3)
+// EARLY GAME
+//[Name] == BreastPlate && [Quality] <= Superior && [Flag] != Ethereal # [EnhancedDefense] >= 15 && ([ItemMaxDurabilityPercent] == 0 || [ItemMaxDurabilityPercent] == 15) && ([Sockets] == 0 || [Sockets] == 3)
+//[Name] == BreastPlate && [Quality] <= Superior && [Flag] != Ethereal # [EnhancedDefense] >= 15 && ([Sockets] == 0 || [Sockets] == 3)
+
 [Name] == MagePlate && [Quality] <= Superior && [Flag] != Ethereal # [EnhancedDefense] >= 15 && ([ItemMaxDurabilityPercent] == 0 || [ItemMaxDurabilityPercent] == 15) && ([Sockets] == 0 || [Sockets] == 3)
 [Name] == DuskShroud && [Quality] <= Superior && [Flag] != Ethereal # [EnhancedDefense] >= 15 && ([ItemMaxDurabilityPercent] == 0 || [ItemMaxDurabilityPercent] == 15) && ([Sockets] == 0 || [Sockets] == 3 || [Sockets] == 4)
 [Name] == ArchonPlate && [Quality] <= Superior && [Flag] != Ethereal # [EnhancedDefense] >= 15 && ([ItemMaxDurabilityPercent] == 0 || [ItemMaxDurabilityPercent] == 15) && ([Sockets] == 0 || [Sockets] == 3 || [Sockets] == 4)
-[Name] == BreastPlate && [Quality] <= Superior && [Flag] != Ethereal # [EnhancedDefense] >= 15 && ([Sockets] == 0 || [Sockets] == 3)
 [Name] == MagePlate && [Quality] <= Superior && [Flag] != Ethereal # [EnhancedDefense] >= 15 && ([Sockets] == 0 || [Sockets] == 3)
 [Name] == DuskShroud && [Quality] <= Superior && [Flag] != Ethereal # [EnhancedDefense] >= 15 && ([Sockets] == 0 || [Sockets] == 3 || [Sockets] == 4)
 [Name] == ArchonPlate && [Quality] <= Superior && [Flag] != Ethereal # [EnhancedDefense] >= 15 && ([Sockets] == 0 || [Sockets] == 3 || [Sockets] == 4)
@@ -62,15 +64,15 @@
 [Type] == AuricShields	&& [Quality] <= Superior && [Flag] != Ethereal # [EnhancedDefense] >= 15 && ([ItemMaxDurabilityPercent] == 0 || [ItemMaxDurabilityPercent] == 15) && ([Sockets] == 0 || [Sockets] == 3 || [Sockets] == 4) && ([FireResist] >= 45 || ([EnhancedDamage] >= 65 && [Tohit] >= 121))
 //[Name] == TowerShield && [Quality] <= Superior && [Flag] != Ethereal # [EnhancedDefense] >= 15 && ([ItemMaxDurabilityPercent] == 0 || [ItemMaxDurabilityPercent] == 15) && ([Sockets] == 0 || [Sockets] == 3)
 //[Name] == TrollNest && [Quality] <= Superior && [Flag] != Ethereal # [EnhancedDefense] >= 15 && [ItemMaxDurabilityPercent] == 15 && ([Sockets] == 0 || [Sockets] == 3)
-[Name] == Monarch && [Quality] <= Superior && [Flag] != Ethereal # [EnhancedDefense] >= 15 && ([ItemMaxDurabilityPercent] == 0 || [ItemMaxDurabilityPercent] == 15) && ([Sockets] == 0 || [Sockets] == 4)
+//[Name] == Monarch && [Quality] <= Superior && [Flag] != Ethereal # [EnhancedDefense] >= 15 && ([ItemMaxDurabilityPercent] == 0 || [ItemMaxDurabilityPercent] == 15) && ([Sockets] == 0 || [Sockets] == 4)
 // All 4os monarchs
-[Name] == Monarch && [Quality] <= Superior && [Flag] != Ethereal # [Sockets] == 4
-[Name] == Monarch && [Quality] <= Superior && [Flag] == Ethereal # [Defense] >= 333 && [Sockets] == 4
+//[Name] == Monarch && [Quality] <= Superior && [Flag] != Ethereal # [Sockets] == 4
+//[Name] == Monarch && [Quality] <= Superior && [Flag] == Ethereal # [Defense] >= 333 && [Sockets] == 4
 
 //WHITE HELMS
 
-[Type] == Helm && [Quality] <= Superior && [Flag] != Ethereal # [EnhancedDefense] == 15 && ([ItemMaxDurabilityPercent] == 0 || [ItemMaxDurabilityPercent] == 15) && ([Sockets] == 0 || [Sockets] == 3)
-[Type] == Circlet && [Quality] <= Superior && [Flag] != Ethereal # [EnhancedDefense] == 15 && ([ItemMaxDurabilityPercent] == 0 || [ItemMaxDurabilityPercent] == 15) && ([Sockets] == 0 || [Sockets] == 3)
+//[Type] == Helm && [Quality] <= Superior && [Flag] != Ethereal # [EnhancedDefense] == 15 && ([ItemMaxDurabilityPercent] == 0 || [ItemMaxDurabilityPercent] == 15) && ([Sockets] == 0 || [Sockets] == 3)
+//[Type] == Circlet && [Quality] <= Superior && [Flag] != Ethereal # [EnhancedDefense] == 15 && ([ItemMaxDurabilityPercent] == 0 || [ItemMaxDurabilityPercent] == 15) && ([Sockets] == 0 || [Sockets] == 3)
 
 
 [Type] == Pelt && [Quality] <= Superior && [Flag] != Ethereal # [SkillTornado] == 3 && ([SkillCycloneArmor] >= 3 || [SkillHurricane] >= 3 || [SkillOakSage] >= 3) && ([Sockets] == 0 || [Sockets] == 3)
@@ -131,9 +133,9 @@
 //[Name] == ArchonStaff && [Quality] <= Superior && [Flag] == Ethereal # ([Sockets] == 0 || [Sockets] == 6) 	//BOTD
 //[Name] == GhostSpear && [Quality] <= Superior && [Flag] == Ethereal # ([Sockets] == 0 || [Sockets] == 6)	//BOTD
 
-[Name] == WarStaff && [Quality] <= Superior # [Sockets] == 6 		//Obsession
-[Name] == RuneStaff && [Quality] <= Superior # [Sockets] == 6 		//Obsession
-[Name] == ArchonStaff && [Quality] <= Superior # [Sockets] == 6 	//Obsession
+//[Name] == WarStaff && [Quality] <= Superior # [Sockets] == 6 		//Obsession
+//[Name] == RuneStaff && [Quality] <= Superior # [Sockets] == 6 		//Obsession
+//[Name] == ArchonStaff && [Quality] <= Superior # [Sockets] == 6 	//Obsession
 
 ([name] == archonstaff || [name] == warstaff || [name] == runestaff) && [quality] <= superior # ([sockets] == 0 || [sockets] == 6 || [sockets] == 5) && ([skillenergyshield] >= 3 || [skillshiverarmor] >= 3) && ([skillfireball] >= 3 || [skillenchant] >= 3 || [skillnova] >= 3 || [skillchainlightning] >= 3 || [skillblizzard] >= 3) //CTA Obsession
 
@@ -146,9 +148,9 @@
 [Name] == ColossusVoulge && [Quality] <= Superior && [Flag] == Ethereal # [Sockets] == 4 
 [Name] == CrypticAxe && [Quality] <= Superior && [Flag] == Ethereal # [Sockets] == 4 
 [Name] == GiantThresher && [Quality] <= Superior && [Flag] == Ethereal # [Sockets] == 4 
-[Name] == GreatPoleaxe && [Quality] <= Superior && [Flag] != Ethereal # [Sockets] == 4 
-[Name] == GreatPoleaxe && [Quality] <= Superior && [Flag] == Ethereal # [Sockets] == 4 
-[Name] == Thresher && [Quality] <= Superior && [Flag] == Ethereal # [Sockets] == 4 
+//[Name] == GreatPoleaxe && [Quality] <= Superior && [Flag] != Ethereal # [Sockets] == 4 
+//[Name] == GreatPoleaxe && [Quality] <= Superior && [Flag] == Ethereal # [Sockets] == 4 
+//[Name] == Thresher && [Quality] <= Superior && [Flag] == Ethereal # [Sockets] == 4 
 
 [name] == mythicalsword && [Quality] <= Superior && [Flag] == Ethereal # [EnhancedDamage] >= 15 && ([Sockets] == 0 || [Sockets] == 3)
 [name] == crypticsword  && [Quality] <= Superior && [Flag] == Ethereal # [EnhancedDamage] >= 15 && ([Sockets] == 0 || [Sockets] == 3 || [Sockets] == 4)
