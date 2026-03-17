@@ -1,3 +1,31 @@
+//
+// EARLY GAME
+//
+
+// tal rasha's wrappings
+//[name] == swirlingcrystal 	&& [quality] == set 																							// tal rasha's lidless eye
+//[name] == deathmask 		&& [quality] == set 																							// tal rasha's horadric crest
+//[name] == lacqueredplate 	&& [quality] == set # [defense] >= 941 																			// tal rasha's guardianship perfect
+//[name] == lacqueredplate 	&& [quality] == set																								// tal rasha's guardianship
+//[type] == amulet 			&& [quality] == set # [sorceressskills] == 2 																	// tal rasha's adjucation
+//[name] == meshbelt 			&& [quality] == set																								// tal rasha's fine-spun cloth
+//[name] == meshbelt 		&& [quality] == set # [itemmagicbonus] >= 14 																	// tal rasha's fine-spun cloth
+//[name] == elderstaff 		&& [quality] == set 																							// naj's puzzler
+//[name] == meshboots 		&& [quality] == set 							// natalya's soul perfect
+
+//Horazon's Splendor
+//[name] == demonhead && [quality] == set 												 													// Horazons Countenance
+//[name] == russetarmor && [quality] == set 																									// Horazons Dominion
+//[name] == demonhidegloves && [quality] == set  																								// Horazon's Hold
+//[name] == mirroredboots && [quality] == set 																								// Horazon's Legacy
+//[name] == occultcodex && [quality] == set 																									// Horazon's Legacy
+
+//[name] == heavybracers 		&& [quality] == set					 																			// trang-oul's claws
+
+//
+// COLLECTORS
+//
+
 // angelic raiment
 //[name] == ringmail		&& [quality] == set 																							// angelic mantle
 //[name] == sabre 			&& [quality] == set 																							// angelic sickle
@@ -152,12 +180,10 @@
 //[name] == grimhelm 			&& [quality] == set																								// natalya's totem
 //[name] == scissorssuwayyah && [quality] == set																							// natalya's mark
 //[name] == loricatedmail 	&& [quality] == set # [defense] >= 721 && [sockets] >= 3	 													// natalya's shadow perfect
-//[name] == meshboots 		&& [quality] == set 							// natalya's soul perfect
 
 // naj's ancient vestige
 //[name] == circlet 		&& [quality] == set 																							// naj's circlet
 //[name] == hellforgeplate 	&& [quality] == set 																							// naj's light plate
-//[name] == elderstaff 		&& [quality] == set 																							// naj's puzzler
 
 // orphan's call
 //[name] == wingedhelm 		&& [quality] == set 																							// guillaume's face
@@ -176,15 +202,6 @@
 //[name] == crypticsword 	&& [quality] == set 																							// sazabi's cobalt redeemer
 //[name] == balrogskin 		&& [quality] == set 																							// sazabi's ghost liberator
 
-// tal rasha's wrappings
-//[name] == swirlingcrystal 	&& [quality] == set 																							// tal rasha's lidless eye
-//[name] == deathmask 		&& [quality] == set 																							// tal rasha's horadric crest
-//[name] == lacqueredplate 	&& [quality] == set # [defense] >= 941 																			// tal rasha's guardianship perfect
-//[name] == lacqueredplate 	&& [quality] == set																								// tal rasha's guardianship
-//[type] == amulet 			&& [quality] == set # [sorceressskills] == 2 																	// tal rasha's adjucation
-//[name] == meshbelt 		&& [quality] == set # [itemmagicbonus] >= 14 																	// tal rasha's fine-spun cloth
-//[name] == meshbelt 			&& [quality] == set																								// tal rasha's fine-spun cloth
-
 // trang-oul's avatar
 //[name] == bonevisage 		&& [quality] == set # [defense] >= 257 																			// trang-oul's guise perfect
 //[name] == chaosarmor 		&& [quality] == set # [defense] >= 857 																			// trang-oul's scales perfect
@@ -192,16 +209,8 @@
 //[name] == trollbelt 		&& [quality] == set # [defense] >= 166 && [maxmana] >= 50														// trang-oul's girth perfect
 //[name] == trollbelt 		&& [quality] == set																								// trang-oul's girth
 //[name] == heavybracers 	&& [quality] == set # [defense] >= 74 																			// trang-oul's claws perfect
-//[name] == heavybracers 		&& [quality] == set					 																			// trang-oul's claws
 
 //Bane's Garments
 //[name] == kris && [quality] == set 																											//Banes Oathmaker
 //[name] == hardleatherarmor && [quality] == set 																								// Banes Wraithskin
 //[name] == lightbelt && [quality] == set 																									// Banes Authority
-
-//Horazon's Splendor
-//[name] == demonhead && [quality] == set 												 													// Horazons Countenance
-//[name] == russetarmor && [quality] == set 																									// Horazons Dominion
-//[name] == demonhidegloves && [quality] == set  																								// Horazon's Hold
-//[name] == mirroredboots && [quality] == set 																								// Horazon's Legacy
-//[name] == occultcodex && [quality] == set 																									// Horazon's Legacy

@@ -1,72 +1,32 @@
+// 20 life small charms minimum - adjust as needed
+[name] == smallcharm 		&& [quality] == magic # [maxhp] >= 20
+
 // magic grand charms
 [name] == grandcharm 		&& [quality] == magic # [fireskilltab] >= 1
 [name] == grandcharm 		&& [quality] == magic # [coldskilltab] >= 1 
 [name] == grandcharm 		&& [quality] == magic # [lightningskilltab] >= 1 
-//[name] == grandcharm 		&& [quality] == magic # [trapsskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [shadowdisciplinesskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [martialartsskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [javelinandspearskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [passiveandmagicskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [bowandcrossbowskilltab] >= 1
 [name] == grandcharm 		&& [quality] == magic # [palicombatskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [defensiveaurasskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [offensiveaurasskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [elementalskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [shapeshiftingskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [druidsummoningskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [warcriesskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [masteriesskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [barbcombatskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [poisonandboneskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [necromancersummoningskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [cursesskilltab] >= 1
 [name] == grandcharm 		&& [quality] == magic # [chaosskilltab] >= 1
 [name] == grandcharm 		&& [quality] == magic # [eldritchskilltab] >= 1
 [name] == grandcharm 		&& [quality] == magic # [demonskilltab] >= 1
 
-//[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [fireskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [coldskilltab] >= 1 
-//[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [lightningskilltab] >= 1 
-//[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [trapsskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [shadowdisciplinesskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [martialartsskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [javelinandspearskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [passiveandmagicskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [bowandcrossbowskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [palicombatskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [defensiveaurasskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [offensiveaurasskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [elementalskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [shapeshiftingskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [druidsummoningskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [warcriesskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [masteriesskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [barbcombatskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [poisonandboneskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [necromancersummoningskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [cursesskilltab] >= 1
-
-//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [fireskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [coldskilltab] >= 1 
-//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [lightningskilltab] >= 1 
-//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [trapsskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [shadowdisciplinesskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [martialartsskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [javelinandspearskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [passiveandmagicskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [bowandcrossbowskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [palicombatskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [defensiveaurasskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [offensiveaurasskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [elementalskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [shapeshiftingskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [druidsummoningskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [warcriesskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [masteriesskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [barbcombatskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [poisonandboneskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [necromancersummoningskilltab] >= 1
-//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [cursesskilltab] >= 1
+[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [fireskilltab] >= 1
+[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [coldskilltab] >= 1 
+[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [lightningskilltab] >= 1 
+[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [trapsskilltab] >= 1
+[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [javelinandspearskilltab] >= 1
+[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [bowandcrossbowskilltab] >= 1
+[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [palicombatskilltab] >= 1
+[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [defensiveaurasskilltab] >= 1
+[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [offensiveaurasskilltab] >= 1
+[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [elementalskilltab] >= 1
+[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [shapeshiftingskilltab] >= 1
+[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [druidsummoningskilltab] >= 1
+[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [warcriesskilltab] >= 1
+[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [masteriesskilltab] >= 1
+[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [barbcombatskilltab] >= 1
+[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [poisonandboneskilltab] >= 1
+[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [necromancersummoningskilltab] >= 1
 
 [name] == grandcharm 		&& [quality] == magic # [maxhp] >= 20 && [fireskilltab] >= 1
 [name] == grandcharm 		&& [quality] == magic # [maxhp] >= 20 && [coldskilltab] >= 1 
@@ -133,8 +93,6 @@
 [name] == smallcharm 		&& [quality] == magic # [coldresist]+[fireresist]+[lightresist]+[poisonresist] >= 20
 [name] == smallcharm 		&& [quality] == magic # [maxdamage] >= 4 && [tohit] >= 20
 
-// 20 life small charms minimum - adjust as needed
-[name] == smallcharm 		&& [quality] == magic # [maxhp] >= 20
 //[name] == smallcharm		&& [quality] == magic # [maxhp] >= 15 && [maxmana] >= 10
 //[name] == smallcharm		&& [quality] == magic # [maxhp] >= 20 && [fireresist] >= 11
 //[name] == smallcharm		&& [quality] == magic # [maxhp] >= 20 && [coldresist] >= 11
@@ -176,6 +134,54 @@
 // magic jewels
 [type] == jewel && [quality] == magic # ([ias] >= 15) || ([plusdefense] >= 64) || ([maxdamage] >= 15) || ([enhanceddamage] >= 35) || ([tohit] >= 100) || ([coldresist]+[fireresist]+[lightresist]+[poisonresist] >= 60) || ([maxmana] >= 20) || ([maxhp] >= 20)
 [type] == jewel 			&& [quality] == magic # ([strength] >= 9 || [dexterity] >= 9 || [coldresist] >= 30 || [fireresist] >= 30 || [lightresist] >= 30 || [poisonresist] >= 30 || [fhr] >= 7 || [itemreqpercent] == -15) && ([ias] >= 15 || [plusdefense] >= 64 || [maxdamage] >= 15 || [enhanceddamage] >= 40 || [tohit] >= 100 || [coldresist]+[fireresist]+[lightresist]+[poisonresist] >= 60 || [maxmana] >= 20 || [maxhp] >= 20)
+
+
+//
+// COLLECTORS
+//
+
+//[name] == grandcharm 		&& [quality] == magic # [trapsskilltab] >= 1
+//[name] == grandcharm 		&& [quality] == magic # [shadowdisciplinesskilltab] >= 1
+//[name] == grandcharm 		&& [quality] == magic # [martialartsskilltab] >= 1
+//[name] == grandcharm 		&& [quality] == magic # [javelinandspearskilltab] >= 1
+//[name] == grandcharm 		&& [quality] == magic # [passiveandmagicskilltab] >= 1
+//[name] == grandcharm 		&& [quality] == magic # [bowandcrossbowskilltab] >= 1
+//[name] == grandcharm 		&& [quality] == magic # [defensiveaurasskilltab] >= 1
+//[name] == grandcharm 		&& [quality] == magic # [offensiveaurasskilltab] >= 1
+//[name] == grandcharm 		&& [quality] == magic # [elementalskilltab] >= 1
+//[name] == grandcharm 		&& [quality] == magic # [shapeshiftingskilltab] >= 1
+//[name] == grandcharm 		&& [quality] == magic # [druidsummoningskilltab] >= 1
+//[name] == grandcharm 		&& [quality] == magic # [warcriesskilltab] >= 1
+//[name] == grandcharm 		&& [quality] == magic # [masteriesskilltab] >= 1
+//[name] == grandcharm 		&& [quality] == magic # [barbcombatskilltab] >= 1
+//[name] == grandcharm 		&& [quality] == magic # [poisonandboneskilltab] >= 1
+//[name] == grandcharm 		&& [quality] == magic # [necromancersummoningskilltab] >= 1
+//[name] == grandcharm 		&& [quality] == magic # [cursesskilltab] >= 1
+//[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [shadowdisciplinesskilltab] >= 1
+//[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [martialartsskilltab] >= 1
+//[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [passiveandmagicskilltab] >= 1
+//[name] == grandcharm 		&& [quality] == magic # [fhr] >= 12 && [cursesskilltab] >= 1
+//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [fireskilltab] >= 1
+//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [coldskilltab] >= 1 
+//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [lightningskilltab] >= 1 
+//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [trapsskilltab] >= 1
+//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [shadowdisciplinesskilltab] >= 1
+//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [martialartsskilltab] >= 1
+//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [javelinandspearskilltab] >= 1
+//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [passiveandmagicskilltab] >= 1
+//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [bowandcrossbowskilltab] >= 1
+//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [palicombatskilltab] >= 1
+//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [defensiveaurasskilltab] >= 1
+//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [offensiveaurasskilltab] >= 1
+//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [elementalskilltab] >= 1
+//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [shapeshiftingskilltab] >= 1
+//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [druidsummoningskilltab] >= 1
+//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [warcriesskilltab] >= 1
+//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [masteriesskilltab] >= 1
+//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [barbcombatskilltab] >= 1
+//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [poisonandboneskilltab] >= 1
+//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [necromancersummoningskilltab] >= 1
+//[name] == grandcharm 		&& [quality] == magic # [frw] >= 7 && [cursesskilltab] >= 1
 
 // magic rings
 //[type] == ring 				&& [quality] == magic # [itemmagicbonus] >= 30
